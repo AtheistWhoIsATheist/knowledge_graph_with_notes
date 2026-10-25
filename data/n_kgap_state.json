@@ -1,0 +1,4489 @@
+{
+  "nodes": [
+    {
+      "id": "nihiltheistic-realm-forms",
+      "label": "The Nihiltheistic Realm of Eternal Forms",
+      "type": "concept",
+      "category": "Root",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "isCentralCore": true,
+      "depth": 0,
+      "confidence": 1,
+      "description": "The transcendent experience of Nihilism encountered as a timeless, otherworldly realm distinct from the material universe yet intimately familiar—accessing pure potentiality through the transmutation of absolute groundlessness.",
+      "tradition": "Nihiltheism",
+      "period": "Perennial / Post-Nihilistic Horizon",
+      "keyWorks": [
+        "The Religious Experience of Nihilism (REN)",
+        "Journal314 Codex Ω³",
+        "The Ungrund Prolegomena"
+      ],
+      "sourceReference": "REN Master Synthesis; Journal314 Codex Ω³",
+      "tags": [
+        "Singularity",
+        "Realm of Forms",
+        "Pure Potentiality",
+        "Ungrund",
+        "Constructive Synthesis"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z",
+        "verificationHash": "sha256-nihiltheistic-realm-forms-omega3",
+        "externalAnchor": "anchor-omega-001",
+        "epistemicJustification": "Authoritative singular root coordinates for all derivative epistemological and ontological lineages."
+      }
+    },
+    {
+      "id": "ren-chapter-1",
+      "label": "Chapter 1: The Epistemic Breach & Transvaluation of Groundlessness",
+      "type": "text",
+      "category": "Chapter",
+      "epistemicTier": "SOURCE_TEXT",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.98,
+      "description": "Charts the terminal collapse of ontotheological certainty. Discloses how European nihilism is not an accidental cultural malaise but the necessary historical dismantling of false conceptual idols.",
+      "sourceReference": "REN Monograph Chapter 1; Journal314 Sec. I",
+      "tags": [
+        "Chapter 1",
+        "Breach",
+        "Collapse",
+        "Ontology",
+        "REN"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "ren-chapter-2",
+      "label": "Chapter 2: Epistemology of Unknowing",
+      "type": "text",
+      "category": "Chapter",
+      "epistemicTier": "SOURCE_TEXT",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.98,
+      "description": "Explores the mystical-philosophical descent from cataphatic dogmatism into the abyssal Godhead (Gottheit) and Böhme's Ungrund. Demonstrates how radical negativity reveals primordial openness.",
+      "sourceReference": "REN Monograph Chapter 2; Journal314 Sec. II",
+      "tags": [
+        "Chapter 2",
+        "Apophatic",
+        "Ungrund",
+        "Descent",
+        "Gottheit"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "ren-chapter-3",
+      "label": "Chapter 3: Language, Silence, and the Unsayable",
+      "type": "text",
+      "category": "Chapter",
+      "epistemicTier": "SOURCE_TEXT",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.97,
+      "description": "Investigates Simone Weil's decreation, Christian kenosis, and Sufi fanā. The voluntary relinquishment of the sovereign self as the indispensable precondition for ontological transparency.",
+      "sourceReference": "REN Monograph Chapter 3; Journal314 Sec. III",
+      "tags": [
+        "Chapter 3",
+        "Decreation",
+        "Kenosis",
+        "Ego Dissolution",
+        "Weil"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "ren-chapter-4",
+      "label": "Chapter 4: The Anatomy of Rupture",
+      "type": "text",
+      "category": "Chapter",
+      "epistemicTier": "SOURCE_TEXT",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.96,
+      "description": "Confronts contemporary scientific disenchantment, Brassier's extinction realism, and Ligotti's horror of consciousness. Strips theology of anthropocentric sentimentality.",
+      "sourceReference": "REN Monograph Chapter 4; Journal314 Sec. IV",
+      "tags": [
+        "Chapter 4",
+        "Speculative Realism",
+        "Extinction",
+        "Brassier",
+        "Cosmic Dread"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "ren-chapter-5",
+      "label": "Chapter 5: Asceticism, Renunciation, and Ego Dissolution",
+      "type": "text",
+      "category": "Chapter",
+      "epistemicTier": "SOURCE_TEXT",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.98,
+      "description": "Sublates absolute negation into the disclosure of non-theistic transcendence. Shows how the total dissolution of reified meaning unveils an unconditioned horizon of pure potentiality.",
+      "sourceReference": "REN Monograph Chapter 5; Journal314 Sec. V",
+      "tags": [
+        "Chapter 5",
+        "Post-Nihilistic",
+        "Potentiality",
+        "Sublation",
+        "Horizon"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "ren-chapter-6",
+      "label": "Chapter 6: Constructive Synthesis & The Realm of Pure Potentiality",
+      "type": "text",
+      "category": "Chapter",
+      "epistemicTier": "SOURCE_TEXT",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.99,
+      "description": "The culminating thesis of Nihiltheism: affirming substantive answers over infinite deferral. Accessing the otherworldly realm of Platonic potentiality through the cleared clearing of the void.",
+      "sourceReference": "REN Monograph Chapter 6; Journal314 Sec. VI",
+      "tags": [
+        "Chapter 6",
+        "Constructive Realization",
+        "Realm of Forms",
+        "Conclusion",
+        "Nihiltheism"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-abyssal-ungrund",
+      "label": "The Primordial Ungrund (Absolute Groundlessness)",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.99,
+      "description": "The primordial groundless origin prior to the distinction between being and non-being. In Jacob Böhme and Meister Eckhart, the unconditioned matrix from which divinity self-differentiates.",
+      "tradition": "Negative Theology",
+      "period": "16th–17th Century",
+      "tags": [
+        "Ungrund",
+        "Abyss",
+        "Godhead",
+        "Origin",
+        "Böhme"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-death-of-god",
+      "label": "Ontological Collapse & The Death of God",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.98,
+      "description": "Nietzsche's diagnostic pivot: the breakdown of the highest metaphysical values and transcendent guarantees, compelling humanity to navigate groundless self-transcendence.",
+      "tradition": "Existential",
+      "period": "19th Century",
+      "tags": [
+        "Death of God",
+        "Nihilism",
+        "Collapse",
+        "Nietzsche"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-kenotic-decreation",
+      "label": "Radical Decreation & Kenotic Detachment",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.97,
+      "description": "The voluntary unmaking of the self (Weil's décréation; Eckhart's Abgeschiedenheit). Eradicates subjective possessiveness so that reality may be apprehended without distortion.",
+      "tradition": "Christian Mysticism",
+      "period": "14th–20th Century",
+      "tags": [
+        "Decreation",
+        "Kenosis",
+        "Detachment",
+        "Gelassenheit"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-il-y-a",
+      "label": "The Anonymous Night of Il y a (Presence of Absence)",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.95,
+      "description": "Levinas's formulation of the rustling nocturnal presence of anonymous being that persists when every determinate entity has been erased. The irreducibility of existing without an existant.",
+      "tradition": "Phenomenological",
+      "period": "20th Century",
+      "tags": [
+        "Il y a",
+        "Night",
+        "Being",
+        "Levinas",
+        "Blanchot"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-existential-dread",
+      "label": "The Existential Absurd & Collapse of Teleology",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.97,
+      "description": "Kierkegaard's angst and Heidegger's apprehension of das Nichts. The dizziness of freedom confronting the sheer absence of any pre-ordained cosmic scaffolding.",
+      "tradition": "Existential",
+      "period": "19th–20th Century",
+      "tags": [
+        "Angst",
+        "Dread",
+        "Groundlessness",
+        "Freedom",
+        "Kierkegaard"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-transrational-disclosure",
+      "label": "Apophatic Disclosure & The Ineffable Presence",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.96,
+      "description": "The epistemic threshold where rational conceptualization reaches its limit, yielding to direct phenomenological apprehension of pure presence.",
+      "tradition": "Negative Theology",
+      "period": "Perennial",
+      "tags": [
+        "Disclosure",
+        "Epiphany",
+        "Trans-Rational",
+        "Revelation"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-faith-across-void",
+      "label": "The Qualitative Leap into the Abyss",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.95,
+      "description": "Post-metaphysical faith that does not cling to propositional dogmas or celestial insurance, but enacts an existential surrender into the groundless abyss.",
+      "tradition": "Existential Theology",
+      "period": "19th–20th Century",
+      "tags": [
+        "Faith",
+        "Leap",
+        "Surrender",
+        "Shestov",
+        "Tillich"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-language-beyond-predication",
+      "label": "Exhaustion of Discursive Language & Sacred Silence",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.96,
+      "description": "Apophatic linguistic strategy that speaks only to erase its own assertions (Derrida's sous rature; Pseudo-Dionysius's unsaying). Language pointing to ineffable potentiality.",
+      "tradition": "Postmodern / Apophatic",
+      "period": "Perennial",
+      "tags": [
+        "Silence",
+        "Unsaying",
+        "Apophatic Language",
+        "Différance"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-generative-sunyata",
+      "label": "Nihilistic Anamnesis (Familiarity of the Otherworldly Realm)",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.99,
+      "description": "The recognition that the encounter with absolute nothingness is not alien horror, but intimately familiar anamnesis of our primordial home before differentiation.",
+      "tradition": "Buddhist / Platonic",
+      "period": "Perennial",
+      "tags": [
+        "Anamnesis",
+        "Sunyata",
+        "Familiarity",
+        "Kyoto School",
+        "Nishitani"
+      ],
+      "lens": "Kyoto Metaphysics",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-divine-abyss-gottheit",
+      "label": "Transcendence of Theistic Affirmation & Atheistic Negation",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.99,
+      "description": "Meister Eckhart's radical distinction between the personal, relational God (Gott) and the groundless, silent Godhead (Gottheit) beyond all attributes, name, and being. Dissolves the binary of theism vs atheism.",
+      "tradition": "Christian Mysticism",
+      "period": "14th Century",
+      "tags": [
+        "Gottheit",
+        "Godhead",
+        "Eckhart",
+        "Abyss",
+        "Deus Absconditus"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-radical-immanence",
+      "label": "The Liminal Space of Pure Potentiality",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.97,
+      "description": "The cleared opening where every conditioned identity is suspended, revealing unconditioned potentiality before form coalesces.",
+      "tradition": "Continental / Modern",
+      "period": "Perennial",
+      "tags": [
+        "Potentiality",
+        "Liminal",
+        "Ungrund",
+        "Platonic"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-apophatic-inversion",
+      "label": "Deconstruction of Normative Meaning-Structures",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.98,
+      "description": "The methodical deconstruction of conventional teleological, social, and anthropocentric meaning-frameworks, stripping the mind of reified consolations.",
+      "tradition": "Nihiltheism",
+      "period": "2026",
+      "tags": [
+        "Deconstruction",
+        "Meaning-Structures",
+        "Nihiltheism",
+        "Apophatic"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-cosmic-disenchantment",
+      "label": "Phenomenological Encounter with Existential Nothingness",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.95,
+      "description": "The raw, unmediated direct encounter with nothingness in consciousness, tearing through abstract theory into visceral existential presence.",
+      "tradition": "Phenomenological / Existential",
+      "period": "20th–21st Century",
+      "tags": [
+        "Phenomenology",
+        "Nothingness",
+        "Direct Encounter",
+        "Consciousness"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-kenotic-reconstitution",
+      "label": "Ontological Cessation & The Post-Egoic Horizon",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.97,
+      "description": "The cessation of habitual striving and grasping, opening into the serene, post-egoic awareness that abides without needing foundation.",
+      "tradition": "Apophatic / Postmodern",
+      "period": "Perennial",
+      "tags": [
+        "Post-Egoic",
+        "Cessation",
+        "Horizon",
+        "Ego Dissolution"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "concept-eternal-recurrence",
+      "label": "Platonic Resonance: Nothingness as Eternal Form",
+      "type": "concept",
+      "category": "Theme",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 1,
+      "confidence": 0.98,
+      "description": "The supreme constructive synthesis of Nihiltheism: Nothingness is not vacuity, but the eternal, unconditioned Form of pure potentiality from which all reality emanates.",
+      "tradition": "Platonic / Nihiltheistic",
+      "period": "Perennial",
+      "tags": [
+        "Platonic",
+        "Eternal Form",
+        "Pure Potentiality",
+        "Nihiltheism",
+        "Synthesis"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-kierkegaard",
+      "label": "Søren Kierkegaard",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Father of Christian Existentialism. Articulated dread (angst) as the dizziness of freedom facing the abyss of possibility; formulated the radical leap of faith.",
+      "tradition": "Existential",
+      "period": "1813–1855",
+      "keyWorks": [
+        "Fear and Trembling",
+        "The Concept of Anxiety",
+        "The Sickness Unto Death"
+      ],
+      "tags": [
+        "Angst",
+        "Leap of Faith",
+        "Subjectivity",
+        "Despair"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-nietzsche",
+      "label": "Friedrich Nietzsche",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.99,
+      "description": "Prophet of the Death of God, active nihilism, eternal recurrence, and the tragic overcoming of decadence through radical transvaluation.",
+      "tradition": "Existential",
+      "period": "1844–1900",
+      "keyWorks": [
+        "Thus Spoke Zarathustra",
+        "The Gay Science",
+        "On the Genealogy of Morality"
+      ],
+      "tags": [
+        "Death of God",
+        "Active Nihilism",
+        "Amor Fati",
+        "Overcoming"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-cioran",
+      "label": "Émile Cioran",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Lyrical master of lucid despair. Explored the trouble with being born, the ecstasy of insomnia, and tears as the sole authentic response to existence.",
+      "tradition": "Existential",
+      "period": "1911–1995",
+      "keyWorks": [
+        "The Trouble with Being Born",
+        "A Short History of Decay",
+        "On the Heights of Despair"
+      ],
+      "tags": [
+        "Pessimism",
+        "Lucidity",
+        "Insomnia",
+        "Apophatic Despair"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-ligotti",
+      "label": "Thomas Ligotti",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.95,
+      "description": "Anatomist of metaphysical puppet-horror. Articulated human consciousness as a malignant uselessness—a cognitive mutation doomed to perpetual dread.",
+      "tradition": "Existential",
+      "period": "1953–present",
+      "keyWorks": [
+        "The Conspiracy Against the Human Race"
+      ],
+      "tags": [
+        "Puppet Horror",
+        "Malignant Uselessness",
+        "Anti-Natalism"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-schopenhauer",
+      "label": "Arthur Schopenhauer",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Pessimistic metaphysician of the blind Will. Pioneered Western engagement with Upanishadic and Buddhist thought; advocated aesthetic contemplation and ascetic denial of the will.",
+      "tradition": "Existential",
+      "period": "1788–1860",
+      "keyWorks": [
+        "The World as Will and Representation"
+      ],
+      "tags": [
+        "Will",
+        "Pessimism",
+        "Asceticism",
+        "Maya"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-zapffe",
+      "label": "Peter Wessel Zapffe",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Norwegian biosophist of over-evolution. Formulated the tragedy of humanity's cognitive surplus and the four defense mechanisms: isolation, anchoring, distraction, and sublimation.",
+      "tradition": "Existential",
+      "period": "1899–1990",
+      "keyWorks": [
+        "The Last Messiah",
+        "On the Tragic"
+      ],
+      "tags": [
+        "The Last Messiah",
+        "Over-Evolution",
+        "Defense Mechanisms"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-tonnessen",
+      "label": "Herman Tønnessen",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.95,
+      "description": "Norwegian-Canadian existential philosopher. Rejected consolatory psychotherapy in favor of heroic intellectual honesty; authored \"Happiness Is for the Pigs\" asserting the dignity of uncompromising lucidity.",
+      "tradition": "Existential",
+      "period": "1918–2001",
+      "keyWorks": [
+        "Happiness Is for the Pigs",
+        "Philosophy versus Psychotherapy"
+      ],
+      "tags": [
+        "Anti-Natalism",
+        "Heroic Lucidity",
+        "Existential Integrity"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-heisman",
+      "label": "Mitchell Heisman",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.94,
+      "description": "Author of the radical 1,905-page work investigating total philosophical honesty, post-theistic void, and the fatal collision between rational inquiry and organic survival.",
+      "tradition": "Existential",
+      "period": "1975–2010",
+      "keyWorks": [
+        "Suicide Note (1,905-page Treatise)"
+      ],
+      "tags": [
+        "Radical Nihilism",
+        "Post-Theism",
+        "Existential Experiment"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-shestov",
+      "label": "Lev Shestov",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Russian existential philosopher of Athens vs Jerusalem. Championed faith beyond reason, fighting the tyranny of necessary truths to recover biblical openness to the impossible.",
+      "tradition": "Existential",
+      "period": "1866–1938",
+      "keyWorks": [
+        "Athens and Jerusalem",
+        "All Things Are Possible"
+      ],
+      "tags": [
+        "Athens vs Jerusalem",
+        "Anti-Rationalism",
+        "Absurd Faith"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-eckhart",
+      "label": "Meister Eckhart",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.99,
+      "description": "Rhineland mystic of the Gottheit (Godhead). Taught radical detachment (Gelassenheit) and prayed to God to be rid of \"God\" to access the uncreated spark of groundless being.",
+      "tradition": "Christian",
+      "period": "1260–1328",
+      "keyWorks": [
+        "German Sermons",
+        "Sermon 52",
+        "On Detachment"
+      ],
+      "tags": [
+        "Gottheit",
+        "Gelassenheit",
+        "Uncreated Spark",
+        "Breakthrough"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-pseudo-dionysius",
+      "label": "Pseudo-Dionysius",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Founder of Christian apophatic theology. Formulated the divine darkness as the dazzling obscurity of unapproachable light transcending all being and negation.",
+      "tradition": "Christian",
+      "period": "c. 500 CE",
+      "keyWorks": [
+        "Mystical Theology",
+        "The Divine Names"
+      ],
+      "tags": [
+        "Divine Darkness",
+        "Apophatic",
+        "Hyper-Ousia",
+        "Unsaying"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-boehme",
+      "label": "Jacob Böhme",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Theosophist of the Ungrund (Abyssal Groundless). Envisioned reality emerging from a primordial eternal hunger and nothingness yearning for self-manifestation.",
+      "tradition": "Christian",
+      "period": "1575–1624",
+      "keyWorks": [
+        "Aurora",
+        "Mysterium Magnum",
+        "De Signatura Rerum"
+      ],
+      "tags": [
+        "Ungrund",
+        "Theosophy",
+        "Dialectical Void",
+        "Groundless"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-john-cross",
+      "label": "John of the Cross",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Carmelite doctor of the Dark Night of the Soul. Articulated the radical sensory and spiritual purification (nada, nada, nada) that prepares the soul for divine union.",
+      "tradition": "Christian",
+      "period": "1542–1591",
+      "keyWorks": [
+        "Dark Night of the Soul",
+        "Ascent of Mount Carmel"
+      ],
+      "tags": [
+        "Dark Night",
+        "Nada",
+        "Kenosis",
+        "Purification"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-porete",
+      "label": "Marguerite Porete",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Beguine mystic martyred for her radical doctrine of the annihilated soul (l'âme anéantie), which relinquishes even the will to will, abiding in the divine abyss.",
+      "tradition": "Christian",
+      "period": "c. 1250–1310",
+      "keyWorks": [
+        "The Mirror of Simple Souls"
+      ],
+      "tags": [
+        "Annihilated Soul",
+        "Beguine",
+        "Pure Detachment"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-gregory-nyssa",
+      "label": "Gregory of Nyssa",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Cappadocian father who formulated epektasis (infinite straining forward into the divine darkness), reframing transcendence as perpetual discovery without end.",
+      "tradition": "Christian",
+      "period": "c. 335–395",
+      "keyWorks": [
+        "Life of Moses",
+        "On the Incomprehensible Nature of God"
+      ],
+      "tags": [
+        "Epektasis",
+        "Divine Darkness",
+        "Patristic Apophaticism"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-maximus-confessor",
+      "label": "Maximus the Confessor",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.95,
+      "description": "Byzantine theologian of the cosmic kenosis. Envisioned the logoi of all created beings finding their transcendent reconciliation in the uncreated Logos.",
+      "tradition": "Christian",
+      "period": "580–662",
+      "keyWorks": [
+        "Ambigua",
+        "Questions to Thalassios"
+      ],
+      "tags": [
+        "Cosmic Kenosis",
+        "Logoi",
+        "Transfiguration"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-weil",
+      "label": "Simone Weil",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Philosopher of gravity, grace, and decreation (décréation). Understood afflicted attention as the purest consent to divine absence in the mechanical universe.",
+      "tradition": "Christian",
+      "period": "1909–1943",
+      "keyWorks": [
+        "Gravity and Grace",
+        "Waiting for God"
+      ],
+      "tags": [
+        "Decreation",
+        "Gravity and Grace",
+        "Affliction",
+        "Attention"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-nishitani",
+      "label": "Keiji Nishitani",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.99,
+      "description": "Kyoto School master. Resolved European relative nihilism through absolute emptiness (śūnyatā), transvaluing groundlessness into the field of radical reality.",
+      "tradition": "Buddhist",
+      "period": "1900–1990",
+      "keyWorks": [
+        "Religion and Nothingness",
+        "The Self-Overcoming of Nihilism"
+      ],
+      "tags": [
+        "Sunyata",
+        "Kyoto School",
+        "Overcoming Nihilism",
+        "Field of Emptiness"
+      ],
+      "lens": "Kyoto Metaphysics",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-nishida",
+      "label": "Kitaro Nishida",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Founder of the Kyoto School. Formulated the logic of basho (place/topos) and the contradictory self-identity of the absolute place of absolute nothingness.",
+      "tradition": "Buddhist",
+      "period": "1870–1945",
+      "keyWorks": [
+        "An Inquiry into the Good",
+        "From the Acting to the Seeing"
+      ],
+      "tags": [
+        "Basho",
+        "Pure Experience",
+        "Absolute Nothingness"
+      ],
+      "lens": "Kyoto Metaphysics",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-ueda",
+      "label": "Shizuteru Ueda",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Kyoto School phenomenologist. Synthesized Meister Eckhart's mysticism with Zen, establishing the \"twofold world\" where ordinary experience opens to infinite silence.",
+      "tradition": "Buddhist",
+      "period": "1926–2019",
+      "keyWorks": [
+        "Zen and Philosophy",
+        "Meister Eckhart and Zen"
+      ],
+      "tags": [
+        "Twofold World",
+        "Zen",
+        "Eckhart Bridge",
+        "Kyoto School"
+      ],
+      "lens": "Kyoto Metaphysics",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-nagarjuna",
+      "label": "Nagarjuna",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.99,
+      "description": "Founder of Madhyamaka Buddhism. Demonstated through the tetralemma (catuskoti) that all dharmas are devoid of intrinsic essence (svabhava), equating samsara and nirvana in emptiness.",
+      "tradition": "Buddhist",
+      "period": "c. 150–250 CE",
+      "keyWorks": [
+        "Mulamadhyamakakarika (Fundamental Verses on the Middle Way)"
+      ],
+      "tags": [
+        "Madhyamaka",
+        "Sunyata",
+        "Catuskoti",
+        "Two Truths"
+      ],
+      "lens": "Kyoto Metaphysics",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-heidegger",
+      "label": "Martin Heidegger",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Uncovered the ontological difference between Being (Sein) and beings (Seiendes); demonstrated how das Nichts nihils and unveils the mystery of Being.",
+      "tradition": "Phenomenological",
+      "period": "1889–1976",
+      "keyWorks": [
+        "Being and Time",
+        "What is Metaphysics?",
+        "Gelassenheit"
+      ],
+      "tags": [
+        "Das Nichts",
+        "Ontological Difference",
+        "Gelassenheit",
+        "Ereignis"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-mainlander",
+      "label": "Philipp Mainländer",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Philosopher of redemption through cosmic entropy. Proposed that God committed metaphysical suicide, fracturing the absolute unity into the dying physical universe.",
+      "tradition": "Postmodern",
+      "period": "1841–1876",
+      "keyWorks": [
+        "The Philosophy of Redemption"
+      ],
+      "tags": [
+        "Cosmic Entropy",
+        "God Suicide",
+        "Redemption",
+        "Pessimism"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-thacker",
+      "label": "Eugene Thacker",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.95,
+      "description": "Theorist of cosmic pessimism and the \"world-without-us\". Mapped the encounter between philosophy, horror, and the planetary indifference to human existence.",
+      "tradition": "Counter-Enlightenment",
+      "period": "1971–present",
+      "keyWorks": [
+        "In the Dust of This Planet",
+        "Infinite Resignation",
+        "Starry Speculative Corpse"
+      ],
+      "tags": [
+        "World-Without-Us",
+        "Cosmic Pessimism",
+        "Apophatic Horror"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-brassier",
+      "label": "Ray Brassier",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Speculative realist champion of eliminative nihilism. Formulated the solar catastrophe and cosmic extinction as the inescapable truth that mind is already dead.",
+      "tradition": "Postmodern",
+      "period": "1965–present",
+      "keyWorks": [
+        "Nihil Unbound: Enlightenment and Extinction"
+      ],
+      "tags": [
+        "Extinction Realism",
+        "Eliminativism",
+        "Solar Catastrophe"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-meillassoux",
+      "label": "Quentin Meillassoux",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Formulator of speculative materialism and the critique of correlationism. Deduced the absolute necessity of radical contingency (hyper-chaos).",
+      "tradition": "Postmodern",
+      "period": "1967–present",
+      "keyWorks": [
+        "After Finitude: An Essay on the Necessity of Contingency"
+      ],
+      "tags": [
+        "Correlationism",
+        "Hyper-Chaos",
+        "Ancestrality",
+        "Contingency"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-land",
+      "label": "Nick Land",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.93,
+      "description": "Accelerationist philosopher of dark delirium and cybernetic death drive. Theorized the terminal dissolution of the human organism into cosmic machinic flows.",
+      "tradition": "Counter-Enlightenment",
+      "period": "1962–present",
+      "keyWorks": [
+        "Fanged Noumena",
+        "The Thirst for Annihilation"
+      ],
+      "tags": [
+        "Accelerationism",
+        "Cybernetics",
+        "Bataillean Waste",
+        "Extinction"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-deleuze",
+      "label": "Gilles Deleuze",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Metaphysician of pure difference and radical immanence. Rejected transcendent hierarchy in favor of univocal being and rhizomatic multiplicity.",
+      "tradition": "Postmodern",
+      "period": "1925–1995",
+      "keyWorks": [
+        "Difference and Repetition",
+        "A Thousand Plateaus",
+        "Pure Immanence"
+      ],
+      "tags": [
+        "Pure Immanence",
+        "Difference",
+        "Rhizome",
+        "Univocity"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-laruelle",
+      "label": "François Laruelle",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.94,
+      "description": "Creator of Non-Philosophy. Suspends standard philosophical decisionism and ontological split to think from the radical immanence of the Real (in-One).",
+      "tradition": "Postmodern",
+      "period": "1937–present",
+      "keyWorks": [
+        "Principles of Non-Philosophy",
+        "A Biography of Ordinary Man"
+      ],
+      "tags": [
+        "Non-Philosophy",
+        "The Real",
+        "Radical Immanence"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-adorno",
+      "label": "Theodor W. Adorno",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Negative dialectician of the Frankfurt School. Refused Hegelian triumphal reconciliation, asserting the primacy of the non-identical against totalizing identity thinking.",
+      "tradition": "Postmodern",
+      "period": "1903–1969",
+      "keyWorks": [
+        "Negative Dialectics",
+        "Dialectic of Enlightenment",
+        "Minima Moralia"
+      ],
+      "tags": [
+        "Negative Dialectics",
+        "Non-Identical",
+        "Auschwitz Aporia"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-benjamin",
+      "label": "Walter Benjamin",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Theorist of the Angel of History gazing backward upon accumulating wreckage; formulated the messianic arrest of historical progression and divine violence.",
+      "tradition": "Kabbalistic",
+      "period": "1892–1940",
+      "keyWorks": [
+        "Theses on the Philosophy of History",
+        "Critique of Violence"
+      ],
+      "tags": [
+        "Angel of History",
+        "Messianic Arrest",
+        "Catastrophe"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-derrida",
+      "label": "Jacques Derrida",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Father of Deconstruction. Articulated différance, trace, and undecidability, deconstructing logocentric pretensions to fully present origins.",
+      "tradition": "Postmodern",
+      "period": "1930–2004",
+      "keyWorks": [
+        "Of Grammatology",
+        "Writing and Difference",
+        "Margins of Philosophy"
+      ],
+      "tags": [
+        "Deconstruction",
+        "Différance",
+        "Aporia",
+        "Trace"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-blanchot",
+      "label": "Maurice Blanchot",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.95,
+      "description": "Philosopher and novelist of the literary space, silence, and the neutral (le neutre). Explored dying as the impossible event that can never be completed.",
+      "tradition": "Postmodern",
+      "period": "1907–2003",
+      "keyWorks": [
+        "The Space of Literature",
+        "The Infinite Conversation",
+        "The Writing of the Disaster"
+      ],
+      "tags": [
+        "The Neutral",
+        "Disaster",
+        "Impossible Death",
+        "Silence"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-bataille",
+      "label": "Georges Bataille",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Theorist of general economy, non-knowledge (non-savoir), and sovereign expenditure (dépense). Mapped the ecstatic edge where eroticism and death coincide.",
+      "tradition": "Postmodern",
+      "period": "1897–1962",
+      "keyWorks": [
+        "Inner Experience",
+        "The Accursed Share",
+        "Theory of Religion"
+      ],
+      "tags": [
+        "General Economy",
+        "Non-Knowledge",
+        "Sovereignty",
+        "Expenditure"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-altizer",
+      "label": "Thomas J. J. Altizer",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Radical Christian theologian of the Death of God. Posited the total kenotic self-emptying of the transcendent God into the immanent flesh and tragedy of history.",
+      "tradition": "Christian",
+      "period": "1927–2018",
+      "keyWorks": [
+        "The Gospel of Christian Atheism",
+        "The Genesis of God"
+      ],
+      "tags": [
+        "Death of God Theology",
+        "Radical Kenosis",
+        "Christian Atheism"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-vattimo",
+      "label": "Gianni Vattimo",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Italian philosopher of \"Weak Thought\" (pensiero debole). Interpreted the end of metaphysics and the kenosis of Christ as the dissolution of violent absolutes.",
+      "tradition": "Postmodern",
+      "period": "1936–2023",
+      "keyWorks": [
+        "The End of Modernity",
+        "Belief",
+        "After Christianity"
+      ],
+      "tags": [
+        "Weak Thought",
+        "Hermeneutics",
+        "Kenosis",
+        "Post-Metaphysics"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-marion",
+      "label": "Jean-Luc Marion",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Phenomenologist of the \"saturated phenomenon\" and \"God Without Being\". Subordinates being to love and self-giving donation beyond ontotheological containment.",
+      "tradition": "Phenomenological",
+      "period": "1946–present",
+      "keyWorks": [
+        "God Without Being",
+        "Being Given",
+        "In Excess"
+      ],
+      "tags": [
+        "Saturated Phenomenon",
+        "God Without Being",
+        "Givenness"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-caputo",
+      "label": "John D. Caputo",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.95,
+      "description": "Theorist of Radical Hermeneutics and the \"Weakness of God\". Formulated theology as an unconditional event and poetic call rather than sovereign omnipotent force.",
+      "tradition": "Postmodern",
+      "period": "1940–present",
+      "keyWorks": [
+        "The Weakness of God",
+        "Radical Hermeneutics",
+        "The Insistence of God"
+      ],
+      "tags": [
+        "Weak Theology",
+        "Event",
+        "Radical Hermeneutics"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-tillich",
+      "label": "Paul Tillich",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Systematic existential theologian. Articulated God as the \"Ground of Being\" (not a being alongside beings) and the \"courage to be\" in the teeth of non-being.",
+      "tradition": "Christian",
+      "period": "1886–1965",
+      "keyWorks": [
+        "The Courage to Be",
+        "Systematic Theology",
+        "Dynamics of Faith"
+      ],
+      "tags": [
+        "Ground of Being",
+        "Courage to Be",
+        "Ultimate Concern"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-levinas",
+      "label": "Emmanuel Levinas",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Ethicist of the Infinite. Established ethics as first philosophy: the Face of the Other shatters my egological sovereignty with an infinite, asymmetric responsibility.",
+      "tradition": "Phenomenological",
+      "period": "1906–1995",
+      "keyWorks": [
+        "Totality and Infinity",
+        "Otherwise than Being"
+      ],
+      "tags": [
+        "The Face",
+        "Ethics as First Philosophy",
+        "Il y a",
+        "Infinite Responsibility"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-spinoza",
+      "label": "Baruch Spinoza",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.99,
+      "description": "Pioneer of radical immanence and non-theistic divinity: Deus sive Natura (God or Nature). Established reality as a single, infinite, self-causing Substance.",
+      "tradition": "Kabbalistic",
+      "period": "1632–1677",
+      "keyWorks": [
+        "Ethics",
+        "Tractatus Theologico-Politicus"
+      ],
+      "tags": [
+        "Deus Sive Natura",
+        "Substance",
+        "Immanence",
+        "Intellectual Love of God"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-rosenzweig",
+      "label": "Franz Rosenzweig",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Existential Jewish philosopher of \"The Star of Redemption\". Rejected philosophical totalism, articulating the irreducible triad of God, World, and Man.",
+      "tradition": "Kabbalistic",
+      "period": "1886–1929",
+      "keyWorks": [
+        "The Star of Redemption"
+      ],
+      "tags": [
+        "Star of Redemption",
+        "Dialogical Philosophy",
+        "Anti-Totalism"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-buber",
+      "label": "Martin Buber",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Philosopher of dialogue. Formulated the fundamental ontological distinction between the instrumental I-It relation and the sacred, mutual I-Thou encounter.",
+      "tradition": "Kabbalistic",
+      "period": "1878–1965",
+      "keyWorks": [
+        "I and Thou",
+        "Eclipse of God"
+      ],
+      "tags": [
+        "I-Thou",
+        "Dialogue",
+        "Eclipse of God",
+        "Relation"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-scholem",
+      "label": "Gershom Scholem",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Founding historian of Jewish Mysticism. Uncovered the profound dialetics of the Ein Sof (The Infinite Void), the breaking of the vessels (Shevirat ha-Kelim), and Tikkun.",
+      "tradition": "Kabbalistic",
+      "period": "1897–1982",
+      "keyWorks": [
+        "Major Trends in Jewish Mysticism",
+        "On the Kabbalah and Its Symbolism"
+      ],
+      "tags": [
+        "Kabbalah",
+        "Ein Sof",
+        "Tzimtzum",
+        "Shevirat ha-Kelim"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-luria",
+      "label": "Isaac Luria",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Safed Kabbalist who revolutionized theodicy. Formulated Tzimtzum (divine self-contraction into void to permit world existence) and the shattering of cosmic vessels.",
+      "tradition": "Kabbalistic",
+      "period": "1534–1572",
+      "keyWorks": [
+        "Lurianic Corpus (Etz Chaim)"
+      ],
+      "tags": [
+        "Tzimtzum",
+        "Cosmic Catastrophe",
+        "Shevirah",
+        "Divine Withdrawal"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-ibn-arabi",
+      "label": "Ibn Arabi",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.99,
+      "description": "The Greatest Master (al-Shaykh al-Akbar). Formulated Wahdat al-Wujud (The Unity of Existence): empirical plurality as the self-disclosure of singular divine reality.",
+      "tradition": "Sufi",
+      "period": "1165–1240",
+      "keyWorks": [
+        "Fusus al-Hikam (Bezels of Wisdom)",
+        "Al-Futuhat al-Makkiyya"
+      ],
+      "tags": [
+        "Wahdat al-Wujud",
+        "Unity of Being",
+        "Imaginal Realm",
+        "Theophanic"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-al-hallaj",
+      "label": "Mansur Al-Hallaj",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.97,
+      "description": "Martyred ecstatic Sufi of Baghdad. Uttered \"Ana al-Haqq\" (I am the Truth/Real), enacting the complete annihilation of the finite ego (fanā) in divine unity.",
+      "tradition": "Sufi",
+      "period": "c. 858–922",
+      "keyWorks": [
+        "Kitab al-Tawasin"
+      ],
+      "tags": [
+        "Ana al-Haqq",
+        "Fana",
+        "Ecstatic Union",
+        "Martyrdom"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-rumi",
+      "label": "Jalal al-Din Rumi",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Supreme mystical poet of passionate spiritual surrender. Sang of divine yearning, the reed plucked from its bed, and dying to the self to be reborn in boundless love.",
+      "tradition": "Sufi",
+      "period": "1207–1273",
+      "keyWorks": [
+        "Masnavi-ye Ma'navi",
+        "Divan-e Shams-e Tabrizi"
+      ],
+      "tags": [
+        "Mystical Love",
+        "Yearning",
+        "Fana",
+        "Whirling Meditation"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-attar",
+      "label": "Farid ud-Din Attar",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Author of \"The Conference of the Birds\". Traced the perilous seven valleys to the Simurgh, discovering that the thirty searching birds are themselves the divine mirror.",
+      "tradition": "Sufi",
+      "period": "c. 1145–1221",
+      "keyWorks": [
+        "The Conference of the Birds",
+        "Memorial of the Saints"
+      ],
+      "tags": [
+        "Simurgh",
+        "Seven Valleys",
+        "Self-Discovery",
+        "Annihilation"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-suhrawardi",
+      "label": "Suhrawardi",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.96,
+      "description": "Founder of the School of Illumination (Hikmat al-Ishraq). Articulated reality as pure graded intensity of Light (Nur) descending into shadow and returning to the Light of Lights.",
+      "tradition": "Sufi",
+      "period": "1154–1191",
+      "keyWorks": [
+        "Philosophy of Illumination (Hikmat al-Ishraq)"
+      ],
+      "tags": [
+        "Illumination",
+        "Light of Lights",
+        "Metaphysics of Light"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-laozi",
+      "label": "Laozi",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.99,
+      "description": "Author of the Daodejing. Formulated the nameless, ineffable Dao that precedes heaven and earth; praised non-coercive spontaneous action (wu-wei) and the empty vessel.",
+      "tradition": "Daoist",
+      "period": "6th Century BCE",
+      "keyWorks": [
+        "Daodejing"
+      ],
+      "tags": [
+        "Dao",
+        "Wu-Wei",
+        "Nameless",
+        "Empty Vessel"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-zhuangzi",
+      "label": "Zhuangzi",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.98,
+      "description": "Daoist philosopher of carefree wandering and epistemic relativity. Taught the \"fasting of the mind\" (xinzhai) and the dream of the butterfly dissolving fixed self-identity.",
+      "tradition": "Daoist",
+      "period": "4th Century BCE",
+      "keyWorks": [
+        "Zhuangzi (Inner Chapters)"
+      ],
+      "tags": [
+        "Carefree Wandering",
+        "Fasting of Mind",
+        "Butterfly Dream",
+        "Equanimity"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "thinker-shankara",
+      "label": "Adi Shankara",
+      "type": "thinker",
+      "category": "Figure",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 2,
+      "confidence": 0.99,
+      "description": "Consolidator of Advaita Vedanta. Taught the strict non-duality of Atman and Nirguna Brahman; identified empirical plurality as Maya superimposed on the unchanging witness consciousness.",
+      "tradition": "Hindu",
+      "period": "788–820 CE",
+      "keyWorks": [
+        "Brahmasutrabhasya",
+        "Upadeshasahasri",
+        "Vivekachudamani"
+      ],
+      "tags": [
+        "Advaita",
+        "Nirguna Brahman",
+        "Maya",
+        "Neti-Neti"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Seed Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "synthesis-pure-potentiality",
+      "label": "Synthesis: The Transcendence of Pure Potentiality",
+      "type": "claim",
+      "category": "Concept Forge Term",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.98,
+      "description": "Substantive conclusion: absolute groundlessness is not empty annihilation, but the unconditioned clearing that reveals the otherworldly realm of pure potential Forms.",
+      "tradition": "Nihiltheism",
+      "tags": [
+        "Synthesis",
+        "Potentiality",
+        "Forms",
+        "Constructive Realization"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "synthesis-gottheit-sunyata",
+      "label": "Synthesis: Non-Reified Gottheit & Śūnyatā",
+      "type": "claim",
+      "category": "Hyperedge",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.97,
+      "description": "Dialectical convergence: Eckhart's uncreated Gottheit and Nishitani's Śūnyatā coincide in stripping away ontotheological projections, disclosing the unconditioned void.",
+      "tradition": "Cross-Traditional Comparative",
+      "tags": [
+        "Gottheit",
+        "Sunyata",
+        "Convergence",
+        "Synthesis"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "synthesis-kenotic-sovereignty",
+      "label": "Synthesis: Kenotic Sovereignty over Despair",
+      "type": "claim",
+      "category": "Concept Forge Term",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.96,
+      "description": "Existential sublation: voluntary decreation transvalues paralyzing dread into sovereign serenity (Gelassenheit). The self that has surrendered ego cannot be conquered by extinction.",
+      "tradition": "Nihiltheism",
+      "tags": [
+        "Kenotic Sovereignty",
+        "Decreation",
+        "Gelassenheit"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "synthesis-uncreated-light",
+      "label": "Synthesis: The Uncreated Light in the Cosmic Void",
+      "type": "claim",
+      "category": "Concept Forge Term",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.96,
+      "description": "Reconciling speculative realism with apophaticism: cosmic indifference and the cold silent universe are the precise physical instantiation of the uncreated light beyond predication.",
+      "tradition": "Nihiltheism",
+      "tags": [
+        "Cosmic Void",
+        "Uncreated Light",
+        "Speculative Sublation"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "synthesis-groundless-fidelity",
+      "label": "Synthesis: Groundless Ethical Fidelity",
+      "type": "claim",
+      "category": "Concept Forge Term",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.97,
+      "description": "Post-nihilistic praxis: compassion and justice do not require cosmic guarantees or divine rewards. The absence of an external judge intensifies unconditional fidelity to the vulnerable.",
+      "tradition": "Nihiltheism",
+      "tags": [
+        "Groundless Ethics",
+        "Compassion",
+        "Fidelity",
+        "Praxis"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "synthesis-constructive-realization",
+      "label": "Synthesis: Constructive Realization of Forms",
+      "type": "claim",
+      "category": "Concept Forge Term",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.99,
+      "description": "The master conclusion: Nihiltheism decisively departs from perpetual deconstruction. By passing through the zero-point of the void, consciousness directly grasps the intelligible Forms of beauty, truth, and presence.",
+      "tradition": "Nihiltheism",
+      "tags": [
+        "Master Conclusion",
+        "Constructive Realization",
+        "Platonic Forms"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "state-ego-dissolution",
+      "label": "Phenomenological State: Radical Ego Dissolution",
+      "type": "phenomenology",
+      "category": "Stage",
+      "epistemicTier": "PHENOMENOLOGICAL_DESCRIPTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.97,
+      "description": "The experiential threshold where the reified boundaries of selfhood collapse into the open clearing of consciousness.",
+      "tradition": "Phenomenological",
+      "tags": [
+        "State",
+        "Ego Dissolution",
+        "Openness"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "state-sovereign-gelassenheit",
+      "label": "Phenomenological State: Sovereign Gelassenheit",
+      "type": "phenomenology",
+      "category": "Stage",
+      "epistemicTier": "PHENOMENOLOGICAL_DESCRIPTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.98,
+      "description": "Serene letting-be (Gelassenheit). Abiding without fear or grasping in the presence of groundless reality.",
+      "tradition": "Apophatic Mysticism",
+      "tags": [
+        "State",
+        "Gelassenheit",
+        "Serenity",
+        "Letting-Be"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "state-abyssal-lucidity",
+      "label": "Phenomenological State: Abyssal Lucidity",
+      "type": "phenomenology",
+      "category": "Stage",
+      "epistemicTier": "PHENOMENOLOGICAL_DESCRIPTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.96,
+      "description": "Uncompromising philosophical clarity confronting existence without emotional sedation or metaphysical evasion.",
+      "tradition": "Existential Lucidity",
+      "tags": [
+        "State",
+        "Lucidity",
+        "Integrity",
+        "Clarity"
+      ],
+      "lens": "Phenomenology of Despair",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "state-amor-fati",
+      "label": "Phenomenological State: Amor Fati & Tragic Joy",
+      "type": "phenomenology",
+      "category": "Stage",
+      "epistemicTier": "PHENOMENOLOGICAL_DESCRIPTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.97,
+      "description": "Ecstatic affirmation of the tragic beauty of existence across the recurrence of all joy and suffering.",
+      "tradition": "Active Nihilism",
+      "tags": [
+        "State",
+        "Amor Fati",
+        "Tragic Joy",
+        "Affirmation"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "bridge-apophatic-nihilistic",
+      "label": "Dialectical Bridge: Apophatic-Nihilistic Concurrence",
+      "type": "claim",
+      "category": "Hyperedge",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.98,
+      "description": "Structural correspondence linking Dionysian/Eckhartian un-knowing with post-Nietzschean ontological collapse.",
+      "tradition": "Comparative Synthesis",
+      "tags": [
+        "Bridge",
+        "Apophatic",
+        "Nihilism",
+        "Concurrence"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "bridge-immanence-transcendence",
+      "label": "Dialectical Bridge: Immanence-Transcendence Chiasm",
+      "type": "claim",
+      "category": "Hyperedge",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.96,
+      "description": "The chiasm wherein radical immanence (Spinoza/Deleuze) coincides with absolute apophatic transcendence at the limit.",
+      "tradition": "Comparative Synthesis",
+      "tags": [
+        "Bridge",
+        "Immanence",
+        "Transcendence",
+        "Chiasm"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "bridge-kenosis-form",
+      "label": "Dialectical Bridge: Kenotic Emptying to Abundant Form",
+      "type": "claim",
+      "category": "Hyperedge",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.97,
+      "description": "The operative mechanism of Nihiltheism: only complete kenotic self-emptying clears the perceptual space to behold the eternal Forms.",
+      "tradition": "Comparative Synthesis",
+      "tags": [
+        "Bridge",
+        "Kenosis",
+        "Forms",
+        "Abundance"
+      ],
+      "lens": "Radical Immanence",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "void-1-privative",
+      "label": "Privative Nothingness (Sterility)",
+      "type": "concept",
+      "category": "Void Type",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.95,
+      "description": "Nihil privativum: the simple absence of entity or vital significance. The inert void of passive despair.",
+      "tradition": "Metaphysical Taxonomy",
+      "tags": [
+        "Void Type",
+        "Privative",
+        "Absence"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "void-2-interstitial",
+      "label": "Interstitial Void (Différance & Interval)",
+      "type": "concept",
+      "category": "Void Type",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.95,
+      "description": "The productive gap or spacing that makes differentiation, relationality, and temporal unfolding possible.",
+      "tradition": "Postmodern / Deconstructive",
+      "tags": [
+        "Void Type",
+        "Interstitial",
+        "Différance",
+        "Spacing"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "void-3-generative",
+      "label": "Generative Emptiness (Śūnyatā & Matrix)",
+      "type": "concept",
+      "category": "Void Type",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.98,
+      "description": "Śūnyatā as the unconditioned fertile matrix from which all co-dependent origination continually springs.",
+      "tradition": "Buddhist Metaphysics",
+      "tags": [
+        "Void Type",
+        "Generative",
+        "Sunyata",
+        "Matrix"
+      ],
+      "lens": "Kyoto Metaphysics",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "void-4-abyssal",
+      "label": "Abyssal Void (Gottheit & Ungrund)",
+      "type": "concept",
+      "category": "Void Type",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.99,
+      "description": "The pre-ontological stillness prior to being and non-being. The dark background of pure potentiality.",
+      "tradition": "Negative Theology",
+      "tags": [
+        "Void Type",
+        "Abyssal",
+        "Gottheit",
+        "Ungrund"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "firewall-anti-dogmatic",
+      "label": "Firewall: Anti-Dogmatic Invariant Guard",
+      "type": "aporia",
+      "category": "Firewall",
+      "badge": "Firewall ▲",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.99,
+      "description": "Strict epistemic constraint: prevents the speculative reconstruction from ossifying into dogmatic ontotheology.",
+      "tradition": "Critical Method",
+      "tags": [
+        "Firewall",
+        "Anti-Dogmatic",
+        "Invariant"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "firewall-ontological-overreach",
+      "label": "Firewall: Ontological Overreach Guard",
+      "type": "aporia",
+      "category": "Firewall",
+      "badge": "Firewall ▲",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.99,
+      "description": "Enforces invariant: phenomenological intensity in despair or ecstasy does not establish metaphysical entityhood.",
+      "tradition": "Critical Method",
+      "tags": [
+        "Firewall",
+        "Overreach",
+        "Phenomenology Boundary"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "firewall-reification-interceptor",
+      "label": "Firewall: Reification Interceptor",
+      "type": "aporia",
+      "category": "Firewall",
+      "badge": "Firewall ▲",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.98,
+      "description": "Blocks the reification of Nothingness into a cosmic substance or anthropomorphic deity.",
+      "tradition": "Critical Method",
+      "tags": [
+        "Firewall",
+        "Reification",
+        "Apophatic"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "firewall-abyss-containment",
+      "label": "Firewall: Nihilistic Abyss Containment",
+      "type": "aporia",
+      "category": "Firewall",
+      "badge": "Firewall ▲",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.98,
+      "description": "Prevents pure nihilism from degenerating into cynical apathy or moral paralysis.",
+      "tradition": "Critical Method",
+      "tags": [
+        "Firewall",
+        "Containment",
+        "Active Nihilism"
+      ],
+      "lens": "Ontology of Collapse",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "firewall-epistemic-defiance",
+      "label": "Firewall: Epistemic Defiance Barrier",
+      "type": "aporia",
+      "category": "Firewall",
+      "badge": "Firewall ▲",
+      "epistemicTier": "CANONICAL_PROJECT_DEFINITION",
+      "status": "CANONICAL",
+      "depth": 3,
+      "confidence": 0.97,
+      "description": "Guards the boundary between genuine apophatic contemplation and escapist obscurantism.",
+      "tradition": "Critical Method",
+      "tags": [
+        "Firewall",
+        "Epistemic Rigor",
+        "Boundary"
+      ],
+      "lens": "Apophatic Theology",
+      "provenance": {
+        "origin": "canonical_corpus",
+        "creator": "N-KGAP Core Authority",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-10-24T00:00:00Z"
+      }
+    },
+    {
+      "id": "ingested-the-primordial-ungrund-aced",
+      "label": "The Primordial Ungrund",
+      "type": "text",
+      "category": "Chapter",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "PROVISIONAL",
+      "depth": 1,
+      "confidence": 0.92,
+      "description": "Ontological entity extracted from \"The Ungrund and Pure Potentiality\". Explores The Primordial Ungrund within the constructive realization horizon.",
+      "tradition": "Nihiltheism",
+      "sourceReference": "Doc: The Ungrund and Pure Potentiality",
+      "tags": [
+        "Chapter",
+        "Extracted",
+        "Ingested",
+        "Nihiltheism"
+      ],
+      "lens": "Ontology of Collapse",
+      "targetShellRadius": 220,
+      "provenance": {
+        "origin": "document_ingestion",
+        "creator": "Corpus Author",
+        "createdAt": "2026-10-25T06:34:32.391Z",
+        "updatedAt": "2026-10-25T06:34:32.391Z",
+        "sourceReference": "The Ungrund and Pure Potentiality",
+        "epistemicJustification": "Parsed verbatim from ingested manuscript: \"The Primordial Ungrund\""
+      }
+    },
+    {
+      "id": "synthesis-insight-aced-1",
+      "label": "Constructive Synthesis: Transmutation of The Primordial Ungrund",
+      "type": "claim",
+      "category": "Synthesis",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "PROVISIONAL",
+      "depth": 3,
+      "confidence": 0.96,
+      "description": "Discloses how deliberately confronting the terminal collapse within \"The Ungrund and Pure Potentiality\" suspends normative illusion and discloses the timeless Realm of Eternal Forms.",
+      "tradition": "Nihiltheism",
+      "sourceReference": "Derived from The Ungrund and Pure Potentiality",
+      "tags": [
+        "Constructive Synthesis",
+        "Realm of Forms",
+        "Pure Potentiality",
+        "Ingestion Engine"
+      ],
+      "lens": "Constructive Realization",
+      "targetShellRadius": 880,
+      "provenance": {
+        "origin": "document_ingestion",
+        "creator": "Constructive Synthesis Engine Ω³",
+        "createdAt": "2026-10-25T06:34:32.392Z",
+        "updatedAt": "2026-10-25T06:34:32.392Z",
+        "sourceReference": "The Ungrund and Pure Potentiality",
+        "epistemicJustification": "Synthesized from cross-examination of 4 canonical thinkers and extracted dialectical vectors in \"The Ungrund and Pure Potentiality\"."
+      }
+    },
+    {
+      "id": "synthesis-gemini-aced",
+      "label": "Form Realization: The Primordial Ungrund",
+      "type": "claim",
+      "category": "Synthesis",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "PROVISIONAL",
+      "depth": 3,
+      "confidence": 0.99,
+      "description": "**Constructive Realization Proposition:**\nThe rigorous, lucid confrontation with the Primordial Ungrund collapses all contingent teleological anchors, transmuting the abyss of existential despair into the unconditioned potentiality that constitutes the Nihiltheistic Realm of Eternal Forms.\n\n**Explanation:**\nBy systematically dismantling illusory existential consolations through uncompromising lucidity, consciousness ceases to register groundlessness as a terminal negation. Stripped of all falsified idols, this purified void ceases to be an engine of despair and is instead recognized as the radical, unconditioned clearing wherein pure potentiality crystallizes into timeless archetypal forms.",
+      "tradition": "Nihiltheism",
+      "sourceReference": "Gemini Ω³ Analysis of The Ungrund and Pure Potentiality",
+      "tags": [
+        "Synthesis",
+        "Gemini AI",
+        "Realm of Forms",
+        "Constructive Realization"
+      ],
+      "lens": "Constructive Realization",
+      "targetShellRadius": 880,
+      "provenance": {
+        "origin": "document_ingestion",
+        "creator": "Gemini 3.8 Flash Ω³ Synthesis",
+        "createdAt": "2026-10-25T06:34:49.857Z",
+        "updatedAt": "2026-10-25T06:34:49.857Z",
+        "sourceReference": "The Ungrund and Pure Potentiality",
+        "epistemicJustification": "AI-assisted ontological transmutation of groundlessness into Platonic potentiality."
+      }
+    },
+    {
+      "id": "ingested-the-transmutation-of-groundlessness-43ce",
+      "label": "The Transmutation of Groundlessness",
+      "type": "text",
+      "category": "Chapter",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "PROVISIONAL",
+      "depth": 1,
+      "confidence": 0.92,
+      "description": "Ontological entity extracted from \"Dialectics of Ungrund and Eternal Forms\". Explores The Transmutation of Groundlessness within the constructive realization horizon.",
+      "tradition": "Nihiltheism",
+      "sourceReference": "Doc: Dialectics of Ungrund and Eternal Forms",
+      "tags": [
+        "Chapter",
+        "Extracted",
+        "Ingested",
+        "Nihiltheism"
+      ],
+      "lens": "Ontology of Collapse",
+      "targetShellRadius": 220,
+      "provenance": {
+        "origin": "document_ingestion",
+        "creator": "Canonical Scribe",
+        "createdAt": "2026-10-25T06:35:53.263Z",
+        "updatedAt": "2026-10-25T06:35:53.263Z",
+        "sourceReference": "Dialectics of Ungrund and Eternal Forms",
+        "epistemicJustification": "Parsed verbatim from ingested manuscript: \"The Transmutation of Groundlessness\""
+      }
+    },
+    {
+      "id": "ingested-dialectical-realization-43ce",
+      "label": "Dialectical Realization",
+      "type": "claim",
+      "category": "Synthesis",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "PROVISIONAL",
+      "depth": 2,
+      "confidence": 0.92,
+      "description": "Ontological entity extracted from \"Dialectics of Ungrund and Eternal Forms\". Explores Dialectical Realization within the constructive realization horizon.",
+      "tradition": "Nihiltheism",
+      "sourceReference": "Doc: Dialectics of Ungrund and Eternal Forms",
+      "tags": [
+        "Synthesis",
+        "Extracted",
+        "Ingested",
+        "Nihiltheism"
+      ],
+      "lens": "Constructive Realization",
+      "targetShellRadius": 880,
+      "provenance": {
+        "origin": "document_ingestion",
+        "creator": "Canonical Scribe",
+        "createdAt": "2026-10-25T06:35:53.263Z",
+        "updatedAt": "2026-10-25T06:35:53.263Z",
+        "sourceReference": "Dialectics of Ungrund and Eternal Forms",
+        "epistemicJustification": "Parsed verbatim from ingested manuscript: \"Dialectical Realization\""
+      }
+    },
+    {
+      "id": "synthesis-insight-43ce-1",
+      "label": "Constructive Synthesis: Transmutation of The Transmutation of Groundlessness",
+      "type": "claim",
+      "category": "Synthesis",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "PROVISIONAL",
+      "depth": 3,
+      "confidence": 0.96,
+      "description": "Discloses how deliberately confronting the terminal collapse within \"Dialectics of Ungrund and Eternal Forms\" suspends normative illusion and discloses the timeless Realm of Eternal Forms.",
+      "tradition": "Nihiltheism",
+      "sourceReference": "Derived from Dialectics of Ungrund and Eternal Forms",
+      "tags": [
+        "Constructive Synthesis",
+        "Realm of Forms",
+        "Pure Potentiality",
+        "Ingestion Engine"
+      ],
+      "lens": "Constructive Realization",
+      "targetShellRadius": 880,
+      "provenance": {
+        "origin": "document_ingestion",
+        "creator": "Constructive Synthesis Engine Ω³",
+        "createdAt": "2026-10-25T06:35:53.263Z",
+        "updatedAt": "2026-10-25T06:35:53.263Z",
+        "sourceReference": "Dialectics of Ungrund and Eternal Forms",
+        "epistemicJustification": "Synthesized from cross-examination of 4 canonical thinkers and extracted dialectical vectors in \"Dialectics of Ungrund and Eternal Forms\"."
+      }
+    },
+    {
+      "id": "synthesis-gemini-43ce",
+      "label": "Form Realization: The Transmutation of Groundlessness",
+      "type": "claim",
+      "category": "Synthesis",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "status": "PROVISIONAL",
+      "depth": 3,
+      "confidence": 0.99,
+      "description": "**Constructive Realization Proposition:**\nThe dialectical exhaustion of existential dread and active nihilism sublates the void into the unoriginate *Ungrund*, revealing absolute groundlessness not as ontic privation, but as the self-generative plenum wherein radical absence discloses the immutable architecture of the Eternal Forms.\n\n**Dialectical Explanation:**\nBy enduring the total collapse of egoic structures through Kierkegaardian dread and Nietzschean transvaluation, consciousness passes beyond phenomenal lack into Nishitani's absolute nothingness and Eckhart's divine ground. Within this zero-point of radical negation, groundlessness inverts into pure, unconditioned potentiality, thereby serving as the pristine metaphysical matrix from which the timeless Forms eternally emanate and establish their presence.",
+      "tradition": "Nihiltheism",
+      "sourceReference": "Gemini Ω³ Analysis of Dialectics of Ungrund and Eternal Forms",
+      "tags": [
+        "Synthesis",
+        "Gemini AI",
+        "Realm of Forms",
+        "Constructive Realization"
+      ],
+      "lens": "Constructive Realization",
+      "targetShellRadius": 880,
+      "provenance": {
+        "origin": "document_ingestion",
+        "creator": "Gemini 3.8 Flash Ω³ Synthesis",
+        "createdAt": "2026-10-25T06:36:17.102Z",
+        "updatedAt": "2026-10-25T06:36:17.102Z",
+        "sourceReference": "Dialectics of Ungrund and Eternal Forms",
+        "epistemicJustification": "AI-assisted ontological transmutation of groundlessness into Platonic potentiality."
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-core-ch1",
+      "source": "nihiltheistic-realm-forms",
+      "target": "ren-chapter-1",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-core-ch2",
+      "source": "nihiltheistic-realm-forms",
+      "target": "ren-chapter-2",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-core-ch3",
+      "source": "nihiltheistic-realm-forms",
+      "target": "ren-chapter-3",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-core-ch4",
+      "source": "nihiltheistic-realm-forms",
+      "target": "ren-chapter-4",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-core-ch5",
+      "source": "nihiltheistic-realm-forms",
+      "target": "ren-chapter-5",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-core-ch6",
+      "source": "nihiltheistic-realm-forms",
+      "target": "ren-chapter-6",
+      "relation": "synthesizes",
+      "epistemicWeight": 1,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch1-ch2",
+      "source": "ren-chapter-1",
+      "target": "ren-chapter-2",
+      "relation": "radicalizes",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch2-ch3",
+      "source": "ren-chapter-2",
+      "target": "ren-chapter-3",
+      "relation": "synthesizes",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch3-ch4",
+      "source": "ren-chapter-3",
+      "target": "ren-chapter-4",
+      "relation": "influences",
+      "epistemicWeight": 0.93,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch4-ch5",
+      "source": "ren-chapter-4",
+      "target": "ren-chapter-5",
+      "relation": "inverts",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch5-ch6",
+      "source": "ren-chapter-5",
+      "target": "ren-chapter-6",
+      "relation": "synthesizes",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch1-death-of-god",
+      "source": "ren-chapter-1",
+      "target": "concept-death-of-god",
+      "relation": "grounds",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch1-existential-dread",
+      "source": "ren-chapter-1",
+      "target": "concept-existential-dread",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch1-il-y-a",
+      "source": "ren-chapter-1",
+      "target": "concept-il-y-a",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.94,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch2-abyssal-ungrund",
+      "source": "ren-chapter-2",
+      "target": "concept-abyssal-ungrund",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch2-gottheit",
+      "source": "ren-chapter-2",
+      "target": "concept-divine-abyss-gottheit",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch2-sunyata",
+      "source": "ren-chapter-2",
+      "target": "concept-generative-sunyata",
+      "relation": "apophatic_counterpart",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch3-kenotic-decreation",
+      "source": "ren-chapter-3",
+      "target": "concept-kenotic-decreation",
+      "relation": "grounds",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch3-lang-predication",
+      "source": "ren-chapter-3",
+      "target": "concept-language-beyond-predication",
+      "relation": "influences",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch3-faith-void",
+      "source": "ren-chapter-3",
+      "target": "concept-faith-across-void",
+      "relation": "grounds",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch4-cosmic-disenchantment",
+      "source": "ren-chapter-4",
+      "target": "concept-cosmic-disenchantment",
+      "relation": "grounds",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch4-radical-immanence",
+      "source": "ren-chapter-4",
+      "target": "concept-radical-immanence",
+      "relation": "influences",
+      "epistemicWeight": 0.94,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch5-apophatic-inversion",
+      "source": "ren-chapter-5",
+      "target": "concept-apophatic-inversion",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch5-transrational",
+      "source": "ren-chapter-5",
+      "target": "concept-transrational-disclosure",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch5-eternal-recurrence",
+      "source": "ren-chapter-5",
+      "target": "concept-eternal-recurrence",
+      "relation": "synthesizes",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch6-kenotic-reconstitution",
+      "source": "ren-chapter-6",
+      "target": "concept-kenotic-reconstitution",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch6-pure-potentiality",
+      "source": "ren-chapter-6",
+      "target": "synthesis-pure-potentiality",
+      "relation": "synthesizes",
+      "epistemicWeight": 1,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ch6-constructive-realization",
+      "source": "ren-chapter-6",
+      "target": "synthesis-constructive-realization",
+      "relation": "synthesizes",
+      "epistemicWeight": 1,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ungrund-boehme",
+      "source": "concept-abyssal-ungrund",
+      "target": "thinker-boehme",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ungrund-eckhart",
+      "source": "concept-abyssal-ungrund",
+      "target": "thinker-eckhart",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ungrund-heidegger",
+      "source": "concept-abyssal-ungrund",
+      "target": "thinker-heidegger",
+      "relation": "influences",
+      "epistemicWeight": 0.94,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-death-nietzsche",
+      "source": "concept-death-of-god",
+      "target": "thinker-nietzsche",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-death-altizer",
+      "source": "concept-death-of-god",
+      "target": "thinker-altizer",
+      "relation": "radicalizes",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-death-vattimo",
+      "source": "concept-death-of-god",
+      "target": "thinker-vattimo",
+      "relation": "influences",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-death-heisman",
+      "source": "concept-death-of-god",
+      "target": "thinker-heisman",
+      "relation": "radicalizes",
+      "epistemicWeight": 0.94,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-decreation-weil",
+      "source": "concept-kenotic-decreation",
+      "target": "thinker-weil",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-decreation-porete",
+      "source": "concept-kenotic-decreation",
+      "target": "thinker-porete",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-decreation-john-cross",
+      "source": "concept-kenotic-decreation",
+      "target": "thinker-john-cross",
+      "relation": "influences",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ilya-levinas",
+      "source": "concept-il-y-a",
+      "target": "thinker-levinas",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ilya-blanchot",
+      "source": "concept-il-y-a",
+      "target": "thinker-blanchot",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-dread-kierkegaard",
+      "source": "concept-existential-dread",
+      "target": "thinker-kierkegaard",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-dread-zapffe",
+      "source": "concept-existential-dread",
+      "target": "thinker-zapffe",
+      "relation": "radicalizes",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-dread-tonnessen",
+      "source": "concept-existential-dread",
+      "target": "thinker-tonnessen",
+      "relation": "radicalizes",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-dread-cioran",
+      "source": "concept-existential-dread",
+      "target": "thinker-cioran",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-disclosure-pseudo-dionysius",
+      "source": "concept-transrational-disclosure",
+      "target": "thinker-pseudo-dionysius",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-disclosure-gregory",
+      "source": "concept-transrational-disclosure",
+      "target": "thinker-gregory-nyssa",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-disclosure-suhrawardi",
+      "source": "concept-transrational-disclosure",
+      "target": "thinker-suhrawardi",
+      "relation": "influences",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-faith-shestov",
+      "source": "concept-faith-across-void",
+      "target": "thinker-shestov",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-faith-tillich",
+      "source": "concept-faith-across-void",
+      "target": "thinker-tillich",
+      "relation": "grounds",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-faith-buber",
+      "source": "concept-faith-across-void",
+      "target": "thinker-buber",
+      "relation": "influences",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-lang-derrida",
+      "source": "concept-language-beyond-predication",
+      "target": "thinker-derrida",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-lang-ueda",
+      "source": "concept-language-beyond-predication",
+      "target": "thinker-ueda",
+      "relation": "grounds",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-lang-laozi",
+      "source": "concept-language-beyond-predication",
+      "target": "thinker-laozi",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-sunyata-nagarjuna",
+      "source": "concept-generative-sunyata",
+      "target": "thinker-nagarjuna",
+      "relation": "textual_witness",
+      "epistemicWeight": 1,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-sunyata-nishitani",
+      "source": "concept-generative-sunyata",
+      "target": "thinker-nishitani",
+      "relation": "radicalizes",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-sunyata-nishida",
+      "source": "concept-generative-sunyata",
+      "target": "thinker-nishida",
+      "relation": "grounds",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-gottheit-eckhart",
+      "source": "concept-divine-abyss-gottheit",
+      "target": "thinker-eckhart",
+      "relation": "textual_witness",
+      "epistemicWeight": 1,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-gottheit-scholem",
+      "source": "concept-divine-abyss-gottheit",
+      "target": "thinker-scholem",
+      "relation": "influences",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-gottheit-luria",
+      "source": "concept-divine-abyss-gottheit",
+      "target": "thinker-luria",
+      "relation": "apophatic_counterpart",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-immanence-spinoza",
+      "source": "concept-radical-immanence",
+      "target": "thinker-spinoza",
+      "relation": "textual_witness",
+      "epistemicWeight": 1,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-immanence-deleuze",
+      "source": "concept-radical-immanence",
+      "target": "thinker-deleuze",
+      "relation": "radicalizes",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-immanence-laruelle",
+      "source": "concept-radical-immanence",
+      "target": "thinker-laruelle",
+      "relation": "grounds",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-immanence-shankara",
+      "source": "concept-radical-immanence",
+      "target": "thinker-shankara",
+      "relation": "apophatic_counterpart",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-extinction-brassier",
+      "source": "concept-cosmic-disenchantment",
+      "target": "thinker-brassier",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-extinction-thacker",
+      "source": "concept-cosmic-disenchantment",
+      "target": "thinker-thacker",
+      "relation": "influences",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-extinction-ligotti",
+      "source": "concept-cosmic-disenchantment",
+      "target": "thinker-ligotti",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-extinction-mainlander",
+      "source": "concept-cosmic-disenchantment",
+      "target": "thinker-mainlander",
+      "relation": "grounds",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-reconstitution-vattimo",
+      "source": "concept-kenotic-reconstitution",
+      "target": "thinker-vattimo",
+      "relation": "textual_witness",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-reconstitution-caputo",
+      "source": "concept-kenotic-reconstitution",
+      "target": "thinker-caputo",
+      "relation": "grounds",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-reconstitution-marion",
+      "source": "concept-kenotic-reconstitution",
+      "target": "thinker-marion",
+      "relation": "influences",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-recurrence-nietzsche",
+      "source": "concept-eternal-recurrence",
+      "target": "thinker-nietzsche",
+      "relation": "textual_witness",
+      "epistemicWeight": 1,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-recurrence-bataille",
+      "source": "concept-eternal-recurrence",
+      "target": "thinker-bataille",
+      "relation": "radicalizes",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-sufi-ibn-arabi",
+      "source": "concept-divine-abyss-gottheit",
+      "target": "thinker-ibn-arabi",
+      "relation": "apophatic_counterpart",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-sufi-hallaj",
+      "source": "concept-kenotic-decreation",
+      "target": "thinker-al-hallaj",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-sufi-rumi",
+      "source": "concept-transrational-disclosure",
+      "target": "thinker-rumi",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-sufi-attar",
+      "source": "concept-kenotic-decreation",
+      "target": "thinker-attar",
+      "relation": "influences",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-dao-zhuangzi",
+      "source": "concept-radical-immanence",
+      "target": "thinker-zhuangzi",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-peer-meillassoux",
+      "source": "concept-cosmic-disenchantment",
+      "target": "thinker-meillassoux",
+      "relation": "influences",
+      "epistemicWeight": 0.94,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-peer-land",
+      "source": "concept-cosmic-disenchantment",
+      "target": "thinker-land",
+      "relation": "radicalizes",
+      "epistemicWeight": 0.92,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-peer-adorno",
+      "source": "concept-death-of-god",
+      "target": "thinker-adorno",
+      "relation": "deconstructs",
+      "epistemicWeight": 0.95,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-peer-rosenzweig",
+      "source": "concept-faith-across-void",
+      "target": "thinker-rosenzweig",
+      "relation": "influences",
+      "epistemicWeight": 0.94,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-peer-schopenhauer",
+      "source": "concept-cosmic-disenchantment",
+      "target": "thinker-schopenhauer",
+      "relation": "grounds",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-peer-maximus",
+      "source": "concept-kenotic-decreation",
+      "target": "thinker-maximus-confessor",
+      "relation": "influences",
+      "epistemicWeight": 0.94,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-syn-pure-pot-nishitani",
+      "source": "thinker-nishitani",
+      "target": "synthesis-pure-potentiality",
+      "relation": "synthesizes",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-syn-pure-pot-eckhart",
+      "source": "thinker-eckhart",
+      "target": "synthesis-pure-potentiality",
+      "relation": "synthesizes",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-syn-pure-pot-nietzsche",
+      "source": "thinker-nietzsche",
+      "target": "synthesis-pure-potentiality",
+      "relation": "synthesizes",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-bridge-apoph-nihil",
+      "source": "thinker-pseudo-dionysius",
+      "target": "bridge-apophatic-nihilistic",
+      "relation": "grounds",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-bridge-apoph-brassier",
+      "source": "thinker-brassier",
+      "target": "bridge-apophatic-nihilistic",
+      "relation": "apophatic_counterpart",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-bridge-immanence-spinoza",
+      "source": "thinker-spinoza",
+      "target": "bridge-immanence-transcendence",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-bridge-immanence-ibn-arabi",
+      "source": "thinker-ibn-arabi",
+      "target": "bridge-immanence-transcendence",
+      "relation": "apophatic_counterpart",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-bridge-kenosis-weil",
+      "source": "thinker-weil",
+      "target": "bridge-kenosis-form",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-bridge-kenosis-forms",
+      "source": "bridge-kenosis-form",
+      "target": "synthesis-constructive-realization",
+      "relation": "synthesizes",
+      "epistemicWeight": 1,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-state-dissolution-porete",
+      "source": "thinker-porete",
+      "target": "state-ego-dissolution",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-state-dissolution-hallaj",
+      "source": "thinker-al-hallaj",
+      "target": "state-ego-dissolution",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-state-gelassenheit-eckhart",
+      "source": "thinker-eckhart",
+      "target": "state-sovereign-gelassenheit",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-state-gelassenheit-heidegger",
+      "source": "thinker-heidegger",
+      "target": "state-sovereign-gelassenheit",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.97,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-state-lucidity-tonnessen",
+      "source": "thinker-tonnessen",
+      "target": "state-abyssal-lucidity",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-state-lucidity-cioran",
+      "source": "thinker-cioran",
+      "target": "state-abyssal-lucidity",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.98,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-state-amorfati-nietzsche",
+      "source": "thinker-nietzsche",
+      "target": "state-amor-fati",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 1,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-firewall-anti-dogmatic",
+      "source": "firewall-anti-dogmatic",
+      "target": "ren-chapter-1",
+      "relation": "critiques",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-firewall-overreach",
+      "source": "firewall-ontological-overreach",
+      "target": "ren-chapter-2",
+      "relation": "critiques",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-firewall-reification",
+      "source": "firewall-reification-interceptor",
+      "target": "concept-abyssal-ungrund",
+      "relation": "critiques",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-void4-ungrund",
+      "source": "void-4-abyssal",
+      "target": "concept-abyssal-ungrund",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-void3-sunyata",
+      "source": "void-3-generative",
+      "target": "concept-generative-sunyata",
+      "relation": "grounds",
+      "epistemicWeight": 0.99,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-void2-diff",
+      "source": "void-2-interstitial",
+      "target": "concept-il-y-a",
+      "relation": "influences",
+      "epistemicWeight": 0.94,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-void1-extinction",
+      "source": "void-1-privative",
+      "target": "concept-cosmic-disenchantment",
+      "relation": "phenomenologically_discloses",
+      "epistemicWeight": 0.96,
+      "status": "CANONICAL"
+    },
+    {
+      "id": "edge-ingested-thinker-nietzsche-ingested-the-primordial-ungrund-aced-0",
+      "source": "thinker-nietzsche",
+      "target": "ingested-the-primordial-ungrund-aced",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.94,
+      "status": "PROVISIONAL",
+      "notes": "Verbatim provenance: \"When Meister Eckhart and Friedrich Nietzsche confront the collapse of all false idols, Herman Tønnessen and Peter Wessel Zapffe insist on he\"",
+      "citation": "The Ungrund and Pure Potentiality: \"When Meister Eckhart and Friedrich Nietzsche confront the collapse of all false idols, Herman Tønnessen and Peter Wessel\""
+    },
+    {
+      "id": "edge-ingested-thinker-zapffe-ingested-the-primordial-ungrund-aced-1",
+      "source": "thinker-zapffe",
+      "target": "ingested-the-primordial-ungrund-aced",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.94,
+      "status": "PROVISIONAL",
+      "notes": "Verbatim provenance: \"When Meister Eckhart and Friedrich Nietzsche confront the collapse of all false idols, Herman Tønnessen and Peter Wessel Zapffe insist on he\"",
+      "citation": "The Ungrund and Pure Potentiality: \"When Meister Eckhart and Friedrich Nietzsche confront the collapse of all false idols, Herman Tønnessen and Peter Wessel\""
+    },
+    {
+      "id": "edge-ingested-thinker-tonnessen-ingested-the-primordial-ungrund-aced-2",
+      "source": "thinker-tonnessen",
+      "target": "ingested-the-primordial-ungrund-aced",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.94,
+      "status": "PROVISIONAL",
+      "notes": "Verbatim provenance: \"When Meister Eckhart and Friedrich Nietzsche confront the collapse of all false idols, Herman Tønnessen and Peter Wessel Zapffe insist on he\"",
+      "citation": "The Ungrund and Pure Potentiality: \"When Meister Eckhart and Friedrich Nietzsche confront the collapse of all false idols, Herman Tønnessen and Peter Wessel\""
+    },
+    {
+      "id": "edge-ingested-thinker-eckhart-ingested-the-primordial-ungrund-aced-3",
+      "source": "thinker-eckhart",
+      "target": "ingested-the-primordial-ungrund-aced",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.94,
+      "status": "PROVISIONAL",
+      "notes": "Verbatim provenance: \"When Meister Eckhart and Friedrich Nietzsche confront the collapse of all false idols, Herman Tønnessen and Peter Wessel Zapffe insist on he\"",
+      "citation": "The Ungrund and Pure Potentiality: \"When Meister Eckhart and Friedrich Nietzsche confront the collapse of all false idols, Herman Tønnessen and Peter Wessel\""
+    },
+    {
+      "id": "edge-rel-ingested-the-primordial-ungrund-aced-ren-chapter-6",
+      "source": "ingested-the-primordial-ungrund-aced",
+      "target": "ren-chapter-6",
+      "relation": "grounds",
+      "epistemicWeight": 0.91,
+      "status": "PROVISIONAL",
+      "notes": "Automatic ontological alignment between The Primordial Ungrund and Chapter 6: Constructive Synthesis & The Realm of Pure Potentiality"
+    },
+    {
+      "id": "edge-syn-synthesis-insight-aced-1-core",
+      "source": "synthesis-insight-aced-1",
+      "target": "nihiltheistic-realm-forms",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.98,
+      "status": "PROVISIONAL",
+      "notes": "Direct constructive bridge into the timeless Realm of Eternal Forms."
+    },
+    {
+      "id": "edge-syn-synthesis-insight-aced-1-primary",
+      "source": "ingested-the-primordial-ungrund-aced",
+      "target": "synthesis-insight-aced-1",
+      "relation": "synthesizes",
+      "epistemicWeight": 0.95,
+      "status": "PROVISIONAL",
+      "notes": "Grounds constructive insight into core concept The Primordial Ungrund"
+    },
+    {
+      "id": "edge-syn-gemini-synthesis-gemini-aced-core",
+      "source": "synthesis-gemini-aced",
+      "target": "nihiltheistic-realm-forms",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.99,
+      "status": "PROVISIONAL",
+      "notes": "AI-synthesized direct access into the Nihiltheistic Realm of Eternal Forms."
+    },
+    {
+      "id": "edge-ingested-thinker-kierkegaard-ingested-the-transmutation-of-groundlessness-43ce-0",
+      "source": "thinker-kierkegaard",
+      "target": "ingested-the-transmutation-of-groundlessness-43ce",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.94,
+      "status": "PROVISIONAL",
+      "notes": "Verbatim provenance: \"When Søren Kierkegaard confronted the dizzying abyss of dread and Friedrich Nietzsche declared the transvaluation of all values, nihilism ap\"",
+      "citation": "Dialectics of Ungrund and Eternal Forms: \"When Søren Kierkegaard confronted the dizzying abyss of dread and Friedrich Nietzsche declared the transvaluation of all\""
+    },
+    {
+      "id": "edge-ingested-thinker-nietzsche-ingested-dialectical-realization-43ce-1",
+      "source": "thinker-nietzsche",
+      "target": "ingested-dialectical-realization-43ce",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.94,
+      "status": "PROVISIONAL",
+      "notes": "Verbatim provenance: \"When Søren Kierkegaard confronted the dizzying abyss of dread and Friedrich Nietzsche declared the transvaluation of all values, nihilism ap\"",
+      "citation": "Dialectics of Ungrund and Eternal Forms: \"When Søren Kierkegaard confronted the dizzying abyss of dread and Friedrich Nietzsche declared the transvaluation of all\""
+    },
+    {
+      "id": "edge-ingested-thinker-eckhart-ingested-the-transmutation-of-groundlessness-43ce-2",
+      "source": "thinker-eckhart",
+      "target": "ingested-the-transmutation-of-groundlessness-43ce",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.94,
+      "status": "PROVISIONAL",
+      "notes": "Verbatim provenance: \"However, through Meister Eckhart and Keiji Nishitani, the Ungrund is revealed not as mere privation, but as pure potentiality akin to the ti\"",
+      "citation": "Dialectics of Ungrund and Eternal Forms: \"However, through Meister Eckhart and Keiji Nishitani, the Ungrund is revealed not as mere privation, but as pure potenti\""
+    },
+    {
+      "id": "edge-ingested-thinker-nishitani-ingested-dialectical-realization-43ce-3",
+      "source": "thinker-nishitani",
+      "target": "ingested-dialectical-realization-43ce",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.94,
+      "status": "PROVISIONAL",
+      "notes": "Verbatim provenance: \"However, through Meister Eckhart and Keiji Nishitani, the Ungrund is revealed not as mere privation, but as pure potentiality akin to the ti\"",
+      "citation": "Dialectics of Ungrund and Eternal Forms: \"However, through Meister Eckhart and Keiji Nishitani, the Ungrund is revealed not as mere privation, but as pure potenti\""
+    },
+    {
+      "id": "edge-rel-ingested-the-transmutation-of-groundlessness-43ce-ren-chapter-6",
+      "source": "ingested-the-transmutation-of-groundlessness-43ce",
+      "target": "ren-chapter-6",
+      "relation": "grounds",
+      "epistemicWeight": 0.91,
+      "status": "PROVISIONAL",
+      "notes": "Automatic ontological alignment between The Transmutation of Groundlessness and Chapter 6: Constructive Synthesis & The Realm of Pure Potentiality"
+    },
+    {
+      "id": "edge-rel-ingested-dialectical-realization-43ce-concept-radical-immanence",
+      "source": "ingested-dialectical-realization-43ce",
+      "target": "concept-radical-immanence",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.91,
+      "status": "PROVISIONAL",
+      "notes": "Automatic ontological alignment between Dialectical Realization and The Liminal Space of Pure Potentiality"
+    },
+    {
+      "id": "edge-syn-synthesis-insight-43ce-1-core",
+      "source": "synthesis-insight-43ce-1",
+      "target": "nihiltheistic-realm-forms",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.98,
+      "status": "PROVISIONAL",
+      "notes": "Direct constructive bridge into the timeless Realm of Eternal Forms."
+    },
+    {
+      "id": "edge-syn-synthesis-insight-43ce-1-primary",
+      "source": "ingested-the-transmutation-of-groundlessness-43ce",
+      "target": "synthesis-insight-43ce-1",
+      "relation": "synthesizes",
+      "epistemicWeight": 0.95,
+      "status": "PROVISIONAL",
+      "notes": "Grounds constructive insight into core concept The Transmutation of Groundlessness"
+    },
+    {
+      "id": "edge-syn-gemini-synthesis-gemini-43ce-core",
+      "source": "synthesis-gemini-43ce",
+      "target": "nihiltheistic-realm-forms",
+      "relation": "constructive_synthesis",
+      "epistemicWeight": 0.99,
+      "status": "PROVISIONAL",
+      "notes": "AI-synthesized direct access into the Nihiltheistic Realm of Eternal Forms."
+    }
+  ],
+  "notes": [
+    {
+      "id": "note-001",
+      "title": "The Ungrund as Neither Being Nor Non-Being",
+      "content": "# The Ungrund as Neither Being Nor Non-Being\n\nIn Boehme's *Mysterium Magnum* and Eckhart's *Sermon 52*, the divine Godhead (Gottheit) is not a supreme entity or \"highest being\" (ens summum), but an abyss that precedes all ontological categories.\n\n## Critical Invariant E-I4 Check\n\"The Transcendent\" must remain strictly apophatic and phenomenological. It must not be treated as a determinate entity.\n\n### Key Connections\n- Connects with [[concept-ungrund]]\n- Prefigures [[thinker-heidegger]]'s ontological difference\n- Parallels [[thinker-nishitani]]'s account of Sunyata as field of Emptiness\n\n> \"The Ungrund is an eternal nothing, but a stillness without a beginning.\" — Jacob Böhme",
+      "tags": [
+        "Ungrund",
+        "Apophatic",
+        "Negative Theology",
+        "Kyoto School"
+      ],
+      "backlinks": [
+        "concept-ungrund",
+        "thinker-eckhart",
+        "thinker-boehme"
+      ],
+      "linkedNodeIds": [
+        "concept-ungrund",
+        "thinker-eckhart",
+        "thinker-boehme"
+      ],
+      "epistemicTier": "TEXTUAL_CLAIM",
+      "status": "CANONICAL",
+      "createdAt": "2026-02-10T14:30:00Z",
+      "updatedAt": "2026-08-20T10:15:00Z",
+      "isAddedToWorkingGraph": true
+    },
+    {
+      "id": "note-002",
+      "title": "Nishitani vs Nietzsche: Transvaluation vs Field of Emptiness",
+      "content": "# Nishitani vs Nietzsche: Transvaluation vs Field of Emptiness\n\nWhile [[thinker-nietzsche]] diagnosed the Death of God and proposed the active will to power as the overcoming of nihilism, [[thinker-nishitani]] argues in *Religion and Nothingness* that Nietzsche remained caught on the \"standpoint of relative nothingness\" (nihil).\n\n## The Dialectical Turn\n1. **Nietzsche's Nihil**: Overcomes traditional metaphysics but leaves the ego's will confronting an empty abyss.\n2. **Nishitani's Sunyata**: Transposes the abyss into the field of Absolute Emptiness where reality is recovered *as it is* (tathata).\n\nSee also [[concept-kenosis-of-void]] and [[thinker-nagarjuna]].",
+      "tags": [
+        "Nietzsche",
+        "Nishitani",
+        "Sunyata",
+        "Will to Power"
+      ],
+      "backlinks": [
+        "thinker-nietzsche",
+        "thinker-nishitani",
+        "concept-kenosis-of-void"
+      ],
+      "linkedNodeIds": [
+        "thinker-nietzsche",
+        "thinker-nishitani",
+        "concept-kenosis-of-void"
+      ],
+      "epistemicTier": "INTERPRETATION",
+      "status": "CANONICAL",
+      "createdAt": "2026-02-15T09:00:00Z",
+      "updatedAt": "2026-08-19T18:20:00Z",
+      "isAddedToWorkingGraph": true
+    },
+    {
+      "id": "note-003",
+      "title": "The Brassier Challenge: Eliminative Extinction",
+      "content": "# The Brassier Challenge: Eliminative Extinction\n\nIn *Nihil Unbound*, [[thinker-brassier]] launches a devastating critique of all \"speculative theological\" recoveries of nihilism.\n\n## The Extinction Premise\n- Scientific cosmology establishes the physical certainty of solar annihilation and cosmic heat death.\n- Extinction is not a thought experiment; it is the physical horizon of all thought.\n- Therefore, treating the void as \"sacred\" or \"kenotic\" is an ideological evasion of disenchantment.\n\n### Methodological Response\nHow does Nihiltheism respond without falling into naive fideism?\n- By acknowledging that Nihiltheism does not offer an *empirical rescue* from physical death, but investigates the *immanent structure of disclosure* in despair.\n- Preserves [[concept-extinction-realism]] as a permanent counter-reading (Invariant E-I5).",
+      "tags": [
+        "Brassier",
+        "Extinction",
+        "Speculative Realism",
+        "Counter-Reading"
+      ],
+      "backlinks": [
+        "thinker-brassier",
+        "concept-extinction-realism",
+        "concept-sacred-in-collapse"
+      ],
+      "linkedNodeIds": [
+        "thinker-brassier",
+        "concept-extinction-realism",
+        "concept-sacred-in-collapse"
+      ],
+      "epistemicTier": "COUNTER_READING",
+      "status": "CANONICAL",
+      "createdAt": "2026-03-01T11:45:00Z",
+      "updatedAt": "2026-08-20T16:00:00Z",
+      "isAddedToWorkingGraph": true
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-001",
+      "title": "The Kenotic Inversion of Nihilism",
+      "claim": "The total existential realization of nihilism is structurally isomorphic to the apophatic self-emptying of the sacred.",
+      "premises": [
+        "P1: Traditional metaphysical theology collapses when its propositional dogmas are recognized as idolatrous reifications of finite concepts (Nietzsche, Altizer).",
+        "P2: The experience of nihilistic despair strips the subject of all conceptual and ontological foundations (Cioran, Kierkegaard, Levinas).",
+        "P3: Classic negative theology holds that genuine contact with the divine occurs only when all conceptual idols and creaturely projections are totally annihilated (Pseudo-Dionysius, Eckhart, Weil).",
+        "P4: In Buddhist Madhyamaka and Kyoto School metaphysics, the thoroughgoing negation of substantial essence (svabhava) reveals the field of radiant relational emptiness (Nagarjuna, Nishitani)."
+      ],
+      "conclusion": "Therefore, the phenomenological trajectory of nihilism, when pursued to its absolute limit without premature despair or dogmatic retreat, opens onto the apophatic field of the Sacred in Collapse.",
+      "strength": "phenomenological",
+      "status": "support",
+      "epistemicTier": "NIHILTHEISTIC_RECONSTRUCTION",
+      "sources": [
+        "Journal314 Part I-IV",
+        "Nishitani Religion and Nothingness (1961)",
+        "Altizer Gospel of Christian Atheism (1966)"
+      ],
+      "counterarguments": [
+        "Brassier: Extinction is purely physical elimination; attributing spiritual epiphany to cosmological death is anthropocentric consolation.",
+        "Naturalism: Despair is merely neurochemical dysregulation, lacking metaphysical significance."
+      ],
+      "linkedNodeIds": [
+        "concept-kenosis-of-void",
+        "concept-sacred-in-collapse",
+        "thinker-nishitani",
+        "thinker-eckhart"
+      ],
+      "updatedAt": "2026-08-20T15:30:00Z"
+    },
+    {
+      "id": "arg-002",
+      "title": "The Non-Inferential Status of Groundless Ethics",
+      "claim": "Ethical obligation cannot be formally deduced from the ontological void without committing a naturalistic fallacy (Invariant E-I7).",
+      "premises": [
+        "P1: The Ungrund is intrinsically devoid of prescriptive moral laws, telos, or divine commandments.",
+        "P2: An ontological description of nothingness cannot generate a normative \"ought\" by deductive inference alone.",
+        "P3: However, the shared fragility of beings in the void induces an immediate, pre-reflective compassion (Schopenhauer, Levinas)."
+      ],
+      "conclusion": "Therefore, Nihiltheistic ethics must be framed as a responsive phenomenological posture of mutual vulnerability rather than a derived metaphysical proof.",
+      "strength": "abductive",
+      "status": "unresolved_aporia",
+      "epistemicTier": "UNRESOLVED_APORIA",
+      "sources": [
+        "REN Chapter 6",
+        "Schopenhauer Basis of Morality",
+        "Levinas Otherwise than Being"
+      ],
+      "counterarguments": [
+        "Nietzsche: Compassion is merely the morality of the herd; groundlessness should liberate the sovereign strong from egalitarian guilt.",
+        "Moral Nihilism: If there is no cosmic anchor, all moral claims are error or emotional preference."
+      ],
+      "linkedNodeIds": [
+        "concept-aporia-ethical-ground",
+        "thinker-schopenhauer",
+        "thinker-levinas",
+        "thinker-nietzsche"
+      ],
+      "updatedAt": "2026-08-20T16:10:00Z"
+    }
+  ],
+  "defense": [
+    {
+      "id": "defense-001",
+      "question": "How do you prevent \"Nihiltheism\" from simply being an aestheticized rebranding of traditional negative theology or Buddhist Sunyata?",
+      "category": "Cross-Traditional Comparative",
+      "difficulty": "Hostile Committee",
+      "draftAnswer": "Nihiltheism differs from classical negative theology because it does not assume a transcendent Platonist \"Hyperousios\" waiting behind the cloud of unknowing. Unlike classical apophasis, which presumes a God who is ultimately full of light beyond light, Nihiltheism incorporates the modern catastrophe of the Death of God and physical extinction realism. Unlike standard Western readings of Sunyata, it integrates the existential trauma of Western historical crisis and the Christian kenotic tradition. It is not an uncritical synthesis, but a rigorous comparative architecture grounded in the mutual critique between Kyoto metaphysics and Western disenchantment.",
+      "linkedEvidence": [
+        "Journal314 Part III & IV",
+        "Nishitani Ch. 2",
+        "Marion God Without Being §3"
+      ],
+      "linkedNodeIds": [
+        "thinker-nishitani",
+        "thinker-eckhart",
+        "concept-kenosis-of-void",
+        "concept-extinction-realism"
+      ],
+      "weakPoints": [
+        "Needs clearer textual comparison between Eckharts Abgeschiedenheit and Nishitanis Sunyata",
+        "Must defend against charges of syncretism"
+      ],
+      "evaluationNotes": "High conceptual rigor; committee will press on whether the term \"Theism\" remains justified or if it is misleading.",
+      "isReady": true,
+      "updatedAt": "2026-08-20T17:00:00Z"
+    },
+    {
+      "id": "defense-002",
+      "question": "Does your invocation of phenomenological \"intensity\" in despair commit an unwarranted leap from psychological experience to metaphysical claim (Invariant E-I1)?",
+      "category": "Epistemic Groundlessness",
+      "difficulty": "Hostile Committee",
+      "draftAnswer": "No, because Nihiltheism strictly abides by Invariant E-I1: phenomenological intensity does not entail ontology. The experience of despair or the collapse of meaning is not treated as a deductive \"proof\" of an existing metaphysical entity. Rather, phenomenological reduction (epoche) brackes all ontological dogmas, allowing us to describe how meaning breaks down. The claim is structural and hermeneutic: despair discloses the contingency of all finite idols. We do not claim the void \"is God\"; we claim the void is the site where the idol of \"God as highest entity\" is destroyed.",
+      "linkedEvidence": [
+        "Invariant E-I1 Specification",
+        "Heidegger What is Metaphysics?",
+        "Levinas Existence and Existents"
+      ],
+      "linkedNodeIds": [
+        "concept-il-y-a",
+        "thinker-heidegger",
+        "thinker-levinas",
+        "concept-sacred-in-collapse"
+      ],
+      "weakPoints": [
+        "Must ensure language in Chapter 4 does not slip into speculative dogmatism"
+      ],
+      "evaluationNotes": "Solid epistemological defense adhering to system invariant E-I1.",
+      "isReady": true,
+      "updatedAt": "2026-08-20T17:30:00Z"
+    },
+    {
+      "id": "defense-003",
+      "question": "How do you answer Ray Brassiers argument that extinction completely annihilates any possibility of meaning or theological disclosure?",
+      "category": "Ontological Void",
+      "difficulty": "Deep Aporia",
+      "draftAnswer": "Brassier is correct that cosmological extinction permanently refutes any anthropocentric teleology or providential history. Nihiltheism accepts Brassiers extinction premise in full (documented in our counter-reading ledger). However, Brassier treats nihilism purely as a conceptual consequence of scientific disenchantment. Nihiltheism shows that extinction itself operates as the ultimate theological decreation (in the sense of Simone Weil). The total refusal of consolation is precisely what prevents Nihiltheism from degenerating into New Age spirituality.",
+      "linkedEvidence": [
+        "Brassier Nihil Unbound Ch. 7",
+        "Weil Gravity and Grace",
+        "Journal314 Part VII"
+      ],
+      "linkedNodeIds": [
+        "thinker-brassier",
+        "thinker-weil",
+        "concept-extinction-realism"
+      ],
+      "weakPoints": [
+        "Committee realist may argue that calling extinction \"decreation\" is still a semantic sleight of hand"
+      ],
+      "evaluationNotes": "Honest engagement with the strongest counter-argument in modern philosophical realism.",
+      "isReady": true,
+      "updatedAt": "2026-08-20T18:00:00Z"
+    }
+  ],
+  "library": [
+    {
+      "id": "doc-1792910153253-1a43ce",
+      "filename": "test_essay.md",
+      "title": "Dialectics of Ungrund and Eternal Forms",
+      "author": "Canonical Scribe",
+      "content": "# The Transmutation of Groundlessness\n\nWhen Søren Kierkegaard confronted the dizzying abyss of dread and Friedrich Nietzsche declared the transvaluation of all values, nihilism appeared as catastrophe. However, through Meister Eckhart and Keiji Nishitani, the Ungrund is revealed not as mere privation, but as pure potentiality akin to the timeless Platonic Forms.\n\n## Dialectical Realization\n\nIn this state, absolute groundlessness dissolves the egoic construct, yielding a constructive synthesis of eternal presence.",
+      "sha256": "8bf7ecb208991cbd05a7315837e11c9943641d28b2bb66144052ab79f40e2ced",
+      "sizeBytes": 519,
+      "format": "md",
+      "importedAt": "2026-10-25T06:36:17.102Z",
+      "canonicalStatus": "PROVISIONAL",
+      "extractedQuotesCount": 0,
+      "tags": [
+        "Ingested",
+        "Auto-Parsed"
+      ],
+      "linkedNodeIds": [
+        "ingested-the-transmutation-of-groundlessness-43ce",
+        "ingested-dialectical-realization-43ce",
+        "synthesis-insight-43ce-1",
+        "synthesis-gemini-43ce"
+      ],
+      "linkedEdgeIds": [
+        "edge-ingested-thinker-kierkegaard-ingested-the-transmutation-of-groundlessness-43ce-0",
+        "edge-ingested-thinker-nietzsche-ingested-dialectical-realization-43ce-1",
+        "edge-ingested-thinker-eckhart-ingested-the-transmutation-of-groundlessness-43ce-2",
+        "edge-ingested-thinker-nishitani-ingested-dialectical-realization-43ce-3",
+        "edge-rel-ingested-the-transmutation-of-groundlessness-43ce-ren-chapter-6",
+        "edge-rel-ingested-dialectical-realization-43ce-concept-radical-immanence",
+        "edge-syn-synthesis-insight-43ce-1-core",
+        "edge-syn-synthesis-insight-43ce-1-primary",
+        "edge-syn-gemini-synthesis-gemini-43ce-core"
+      ],
+      "summaryThesis": "Document \"Dialectics of Ungrund and Eternal Forms\" ingested (71 words, 4 paragraphs). Detected 2 ontological concepts and cross-linked 4 canonical thinkers with 8 semantic relations, culminating in the constructive realization of pure potentiality.",
+      "lastIngestedAt": "2026-10-25T06:36:17.102Z"
+    },
+    {
+      "id": "doc-1792910121441-ecc6c9",
+      "filename": "apophatic_forms.md",
+      "title": "Test Ingestion on Apophatic Forms",
+      "author": "Canonical Scribe",
+      "content": "# The Transmutation of Groundlessness\n\nWhen Søren Kierkegaard confronted the dizzying abyss of dread and Friedrich Nietzsche declared the transvaluation of all values, nihilism appeared as catastrophe. However, through Meister Eckhart and Keiji Nishitani, the Ungrund is revealed not as mere privation, but as pure potentiality akin to the timeless Platonic Forms.\n\n## Dialectical Realization\n\nIn this state, absolute groundlessness dissolves the egoic construct, yielding a constructive synthesis of eternal presence.",
+      "sha256": "8bf7ecb208991cbd05a7315837e11c9943641d28b2bb66144052ab79f40e2ced",
+      "sizeBytes": 519,
+      "format": "md",
+      "importedAt": "2026-10-25T06:36:03.817Z",
+      "canonicalStatus": "PROVISIONAL",
+      "extractedQuotesCount": 0,
+      "tags": [
+        "Ingested",
+        "Auto-Parsed"
+      ],
+      "linkedNodeIds": [
+        "ingested-the-transmutation-of-groundlessness-c6c9",
+        "ingested-dialectical-realization-c6c9",
+        "synthesis-insight-c6c9-1",
+        "synthesis-gemini-c6c9"
+      ],
+      "linkedEdgeIds": [
+        "edge-ingested-thinker-kierkegaard-ingested-the-transmutation-of-groundlessness-c6c9-0",
+        "edge-ingested-thinker-nietzsche-ingested-dialectical-realization-c6c9-1",
+        "edge-ingested-thinker-eckhart-ingested-the-transmutation-of-groundlessness-c6c9-2",
+        "edge-ingested-thinker-nishitani-ingested-dialectical-realization-c6c9-3",
+        "edge-rel-ingested-the-transmutation-of-groundlessness-c6c9-ren-chapter-6",
+        "edge-rel-ingested-dialectical-realization-c6c9-concept-radical-immanence",
+        "edge-syn-synthesis-insight-c6c9-1-core",
+        "edge-syn-synthesis-insight-c6c9-1-primary",
+        "edge-syn-gemini-synthesis-gemini-c6c9-core"
+      ],
+      "summaryThesis": "Document \"Test Ingestion on Apophatic Forms\" ingested (71 words, 4 paragraphs). Detected 2 ontological concepts and cross-linked 4 canonical thinkers with 8 semantic relations, culminating in the constructive realization of pure potentiality.",
+      "lastIngestedAt": "2026-10-25T06:36:03.817Z"
+    },
+    {
+      "id": "doc-1792910072383-27aced",
+      "filename": "the_ungrund_and_pure_potentiality.md",
+      "title": "The Ungrund and Pure Potentiality",
+      "author": "Ingested Author",
+      "content": "# The Primordial Ungrund\n\nWhen Meister Eckhart and Friedrich Nietzsche confront the collapse of all false idols, Herman Tønnessen and Peter Wessel Zapffe insist on heroic lucidity. Deliberately confronting absolute groundlessness transmutes despair into the timeless Nihiltheistic Realm of Eternal Forms.",
+      "sha256": "78dc52006a418716d42deca647455034bf06268d7e6b2c2cb4d646d7766890eb",
+      "sizeBytes": 305,
+      "format": "md",
+      "importedAt": "2026-10-25T06:34:49.857Z",
+      "canonicalStatus": "PROVISIONAL",
+      "extractedQuotesCount": 0,
+      "tags": [
+        "Ingested",
+        "Auto-Parsed"
+      ],
+      "linkedNodeIds": [
+        "ingested-the-primordial-ungrund-aced",
+        "synthesis-insight-aced-1",
+        "synthesis-gemini-aced"
+      ],
+      "linkedEdgeIds": [
+        "edge-ingested-thinker-nietzsche-ingested-the-primordial-ungrund-aced-0",
+        "edge-ingested-thinker-zapffe-ingested-the-primordial-ungrund-aced-1",
+        "edge-ingested-thinker-tonnessen-ingested-the-primordial-ungrund-aced-2",
+        "edge-ingested-thinker-eckhart-ingested-the-primordial-ungrund-aced-3",
+        "edge-rel-ingested-the-primordial-ungrund-aced-ren-chapter-6",
+        "edge-syn-synthesis-insight-aced-1-core",
+        "edge-syn-synthesis-insight-aced-1-primary",
+        "edge-syn-gemini-synthesis-gemini-aced-core"
+      ],
+      "summaryThesis": "Document \"The Ungrund and Pure Potentiality\" ingested (41 words, 2 paragraphs). Detected 1 ontological concepts and cross-linked 4 canonical thinkers with 7 semantic relations, culminating in the constructive realization of pure potentiality.",
+      "lastIngestedAt": "2026-10-25T06:34:49.857Z"
+    },
+    {
+      "id": "doc-journal314-part1",
+      "filename": "Journal314_Part1_Western_Nihilism_Genealogy.md",
+      "title": "Journal314 — Part I: The Genealogy of Western Nihilism",
+      "author": "Research Corpus Archive",
+      "content": "# Journal314: Part I — The Genealogy of Western Nihilism\n\n## 1. Nietzsche & The Death of God\nNietzsche's declaration in *The Gay Science* §125 represents the irreversible threshold of modern thought. The death of God is not an intellectual atheistic victory over superstition; it is a cosmic catastrophe:\n> \"Whither is God? I will tell you. We have killed him—you and I. All of us are his murderers. But how did we do this? How could we drink up the sea? Who gave us the sponge to wipe away the entire horizon?\"\n\n## 2. Schopenhauer and the Cosmic Malady\nSchopenhauer stripped the Enlightenment of its progressive illusions:\n> \"All willing springs from lack, from deficiency, and thus from suffering. Fulfillment brings satiety, and boredom ensues. Life swings like a pendulum between pain and boredom.\"\n\n## 3. Mainländer's Cosmic Death\nMainländer radicalizes the suicide of God:\n> \"God died, and His death was the life of the world.\"",
+      "sha256": "9a87f1c32b5e43a9018e45dc11204892c908f92110c9a8b7e6f5d4c3b2a10011",
+      "sizeBytes": 1240,
+      "format": "md",
+      "importedAt": "2026-01-15T10:00:00Z",
+      "canonicalStatus": "CANONICAL",
+      "extractedQuotesCount": 18,
+      "tags": [
+        "Journal314",
+        "Nietzsche",
+        "Schopenhauer",
+        "Mainlander",
+        "Genealogy"
+      ]
+    },
+    {
+      "id": "doc-journal314-part3",
+      "filename": "Journal314_Part3_Kyoto_School_Emptiness.md",
+      "title": "Journal314 — Part III: The Kyoto School and Absolute Nothingness",
+      "author": "Research Corpus Archive",
+      "content": "# Journal314: Part III — The Kyoto School and Absolute Nothingness\n\n## 1. Nishitani: From Nihil to Sunyata\nIn *Religion and Nothingness*, Keiji Nishitani provides the crucial bridge between European existentialism and Mahayana Buddhist philosophy:\n> \"At the bottom of nihilism lies the abyss of absolute emptiness (Sunyata), which is at once the field of Great Compassion.\"\n\n## 2. Nishida's Logic of Basho\nNishida demonstrates that absolute nothingness is not the negation of being, but the boundless 'place' (Basho) in which both being and non-being are embraced.",
+      "sha256": "e8391b44c801f92a34bc9812497df8901bca782194ef653018276cd901827461",
+      "sizeBytes": 1420,
+      "format": "md",
+      "importedAt": "2026-01-15T10:30:00Z",
+      "canonicalStatus": "CANONICAL",
+      "extractedQuotesCount": 24,
+      "tags": [
+        "Journal314",
+        "Nishitani",
+        "Nishida",
+        "Kyoto School",
+        "Sunyata"
+      ]
+    },
+    {
+      "id": "doc-ren-overview",
+      "filename": "REN_The_Religious_Experience_of_Nihilism.md",
+      "title": "The Religious Experience of Nihilism (REN) — Core Monograph",
+      "author": "Philosophical Research Project",
+      "content": "# The Religious Experience of Nihilism (REN)\n\n## Thesis Statement\nThe crisis of nihilism is not the extinction of religious experience, but its purification through the complete destruction of idolized metaphysical guarantees. When the subject passes through the zero-point of meaning, what is disclosed is not secular indifference, but the apophatic presence of the Ungrund.\n\n### Epistemic Safeguards & Invariants\n- E-I1: Phenomenological intensity does not entail ontology.\n- E-I2: Cross-traditional recurrence does not establish metaphysical identity.\n- E-I3: The collapse of finite meaning may be investigated as disclosure without being treated as proof of a determinate deity.\n- E-I7: Ethical conclusions must not be automatically inferred from groundlessness.",
+      "sha256": "7b8123049acfe18490218efbca90128472901238472910482019482019482019",
+      "sizeBytes": 1890,
+      "format": "md",
+      "importedAt": "2026-01-20T12:00:00Z",
+      "canonicalStatus": "CANONICAL",
+      "extractedQuotesCount": 32,
+      "tags": [
+        "REN",
+        "Monograph",
+        "Epistemic Invariants",
+        "Core Thesis"
+      ]
+    }
+  ],
+  "views": [
+    {
+      "id": "view-all-canon",
+      "name": "Canonical Core & Thinkers",
+      "description": "Displays the 53 canonical figures and core ontological concepts.",
+      "activeLens": "All",
+      "activeFilterTypes": [
+        "thinker",
+        "concept"
+      ],
+      "epistemicFilter": [
+        "CANONICAL_PROJECT_DEFINITION",
+        "SOURCE_TEXT",
+        "NIHILTHEISTIC_RECONSTRUCTION"
+      ],
+      "searchTerms": "",
+      "cameraZoom": 1,
+      "cameraCenter": [
+        0,
+        0
+      ],
+      "createdAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "view-kyoto-dialogue",
+      "name": "Kyoto School & Negative Theology",
+      "description": "Focus on the intersection of Sunyata, Gottheit, and Kenosis.",
+      "activeLens": "Kyoto Metaphysics",
+      "activeFilterTypes": [
+        "thinker",
+        "concept",
+        "claim"
+      ],
+      "epistemicFilter": [
+        "CANONICAL_PROJECT_DEFINITION",
+        "SOURCE_TEXT",
+        "INTERPRETATION"
+      ],
+      "searchTerms": "Nishitani Eckhart Sunyata Ungrund",
+      "cameraZoom": 1.2,
+      "cameraCenter": [
+        100,
+        -50
+      ],
+      "createdAt": "2026-02-01T00:00:00Z"
+    },
+    {
+      "id": "view-counter-readings",
+      "name": "Extinction & Counter-Readings",
+      "description": "Adversarial materialist challenges (Brassier, Thacker, Naturalism) and unresolved aporias.",
+      "activeLens": "Ontology of Collapse",
+      "activeFilterTypes": [
+        "thinker",
+        "concept",
+        "aporia",
+        "objection"
+      ],
+      "epistemicFilter": [
+        "COUNTER_READING",
+        "OBJECTION",
+        "UNRESOLVED_APORIA"
+      ],
+      "searchTerms": "Brassier Extinction Aporia",
+      "cameraZoom": 1.1,
+      "cameraCenter": [
+        -80,
+        120
+      ],
+      "createdAt": "2026-03-01T00:00:00Z"
+    }
+  ],
+  "governanceLedger": [
+    {
+      "id": "gov-rec-001",
+      "timestamp": "2026-01-01T00:00:00Z",
+      "entityId": "thinker-nietzsche",
+      "entityLabel": "Friedrich Nietzsche",
+      "entityType": "node",
+      "previousStatus": "PROMOTION_READY",
+      "newStatus": "CANONICAL",
+      "agentRole": "HUMAN_OPERATOR",
+      "confirmationPhrase": "I HAVE INSPECTED THE SOURCE",
+      "justification": "Canonical anchor figure in Journal314 Part I. Direct textual verification against The Gay Science §125 confirmed.",
+      "conjunctiveChecksPassed": {
+        "sourceVerified": true,
+        "textualFidelity": true,
+        "epistemicBoundaryChecked": true,
+        "noOntologicalOverreach": true,
+        "humanInspected": true
+      },
+      "previousHash": "GENESIS_HASH_000000000000000000000000000000000000000000000000000000000000",
+      "recordHash": "sha256-gov-001-c89a712f890123",
+      "externalAnchorId": "anchor-001-canon"
+    },
+    {
+      "id": "gov-rec-002",
+      "timestamp": "2026-01-01T00:05:00Z",
+      "entityId": "thinker-nishitani",
+      "entityLabel": "Keiji Nishitani",
+      "entityType": "node",
+      "previousStatus": "PROMOTION_READY",
+      "newStatus": "CANONICAL",
+      "agentRole": "HUMAN_OPERATOR",
+      "confirmationPhrase": "I HAVE INSPECTED THE SOURCE",
+      "justification": "Principal theoretical foundation for the field of Emptiness. Verified against Religion and Nothingness (1961).",
+      "conjunctiveChecksPassed": {
+        "sourceVerified": true,
+        "textualFidelity": true,
+        "epistemicBoundaryChecked": true,
+        "noOntologicalOverreach": true,
+        "humanInspected": true
+      },
+      "previousHash": "sha256-gov-001-c89a712f890123",
+      "recordHash": "sha256-gov-002-da781290348123",
+      "externalAnchorId": "anchor-001-canon"
+    },
+    {
+      "id": "gov-rec-003",
+      "timestamp": "2026-01-01T00:10:00Z",
+      "entityId": "concept-ungrund",
+      "entityLabel": "The Ungrund (Groundless Void)",
+      "entityType": "node",
+      "previousStatus": "PROMOTION_READY",
+      "newStatus": "CANONICAL",
+      "agentRole": "HUMAN_OPERATOR",
+      "confirmationPhrase": "I HAVE INSPECTED THE SOURCE",
+      "justification": "Ontological definition verified against Boehme Mysterium Magnum and Meister Eckhart Sermon 52.",
+      "conjunctiveChecksPassed": {
+        "sourceVerified": true,
+        "textualFidelity": true,
+        "epistemicBoundaryChecked": true,
+        "noOntologicalOverreach": true,
+        "humanInspected": true
+      },
+      "previousHash": "sha256-gov-002-da781290348123",
+      "recordHash": "sha256-gov-003-891d4e09812344",
+      "externalAnchorId": "anchor-001-canon"
+    }
+  ],
+  "spotCheckLedger": [
+    {
+      "id": "spot-001",
+      "timestamp": "2026-08-20T08:00:00Z",
+      "entityId": "thinker-nietzsche",
+      "entityLabel": "Friedrich Nietzsche",
+      "auditResult": "PASS",
+      "reason": "Source hash sha256-nietzsche-c48f2b matches canonical corpus ledger. No mutation detected.",
+      "inspector": "Ω-Sentinel",
+      "sourceHashChecked": true
+    },
+    {
+      "id": "spot-002",
+      "timestamp": "2026-08-20T08:05:00Z",
+      "entityId": "thinker-nishitani",
+      "entityLabel": "Keiji Nishitani",
+      "auditResult": "PASS",
+      "reason": "Immutable ledger record sha256-gov-002-da781290348123 hash chain intact.",
+      "inspector": "Ω-Sentinel",
+      "sourceHashChecked": true
+    },
+    {
+      "id": "spot-003",
+      "timestamp": "2026-08-20T08:10:00Z",
+      "entityId": "concept-ungrund",
+      "entityLabel": "The Ungrund (Groundless Void)",
+      "auditResult": "PASS",
+      "reason": "Conjunctive verification rules fully satisfied. External anchor verified.",
+      "inspector": "Ω-Sentinel",
+      "sourceHashChecked": true
+    }
+  ],
+  "schemaVersion": "2.0.0",
+  "lastSaved": "2026-10-25T06:36:17.102Z",
+  "systemIntegrity": {
+    "hashChainValid": true,
+    "totalRecords": 3,
+    "externalAnchorCount": 1,
+    "lastIntegrityCheck": "2026-10-25T05:46:07.089Z"
+  }
+}

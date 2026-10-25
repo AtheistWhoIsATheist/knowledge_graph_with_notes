@@ -1,0 +1,6 @@
+{
+  "name": "NIHILTHEISM — Philosophical Knowledge Graph",
+  "description": "N-KGAP Ω³: Constructive synthesis philosophical knowledge workstation, 53 canonical thinkers, 2D/3D force-directed visualization, and dialectical synthesis engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
